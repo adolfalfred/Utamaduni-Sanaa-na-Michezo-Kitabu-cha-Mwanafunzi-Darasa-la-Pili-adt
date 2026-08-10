@@ -14,6 +14,29 @@
   font-display: swap;
 }
 
+/*
+ * The source-book Sassoon subset has an empty uppercase Z glyph. This tiny
+ * same-typeface subset restores that glyph without changing the book's
+ * typography or replacing the rest of the bundled font.
+ */
+@font-face {
+  font-family: "Sassoon Primary Z Fix";
+  src: url("data:font/woff2;base64,d09GMnRydWUAAAJEAAoAAAAABHwAAAH6AAEAxQAAAAAAAAAAAAAAAAAAAAAAAAAABmAALAo0RwE2AiQDCAsGAAQgBYRkByAb2AMIrgZs1xohjpaysmmlxiG9cs7K0mj8Zzz8t1+7b2YWs0b7mbiVxCHa6R7FS5cUibStWCKJZ5X6LZxqsgm9pHNNVfrY7yV5LEqKWQFpfylCekIm3CpQOjg9/085euKH69//3dSrgAIcE0DH/O8AA/rvxO9FlvDErQmOBRRoYBTEziR6bTNmkjnJNEOO00hDSa0kdtdD4l7TP0mjLZMUBABsXxRXtr167W+dg335Q0D8phYqFYQs0KOoVBRFYOa3/7EAkEBBoAsDKqAAomutUr33PX1LPU8Pa6PibaLs7A9ZX9t5RwUC4fB2Z2/61/86hvMjnJ/9g4up3rs65K+8qKJTAkFerFHJjyHiqgQAIMWYSpwbUkWyqG1CQwCAJNBmWl2UTuKBmxFG8mAkfamDzz5fRGrb9zjNKEWYxZaAYXtGwIwVKxbABS2gJUoGgT1axNAiQoJpAXgHOzweuKUhnktIjEQyRJkEd4RYTCPADyhAwncrxCdEXKD1knDSE85DJvgCgyNvEnc1u2dntBsRTUlJSbKLoUSCokwZh78BHPW8sncgBBTUg9KUgKeEn4ZoSsnAThAkKUQuATLszLGE7R4KgYRGH3XEDCKxHoZGT8V3cF69HHZYIoT4+l5i0rVXpw4duzfWD7sW4ZY/VbpFLCmPEKkD9YGmDQAAAA==") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+005A;
+}
+
+@font-face {
+  font-family: "Sassoon Primary Z Fix";
+  src: url("data:font/woff2;base64,d09GMnRydWUAAAJEAAoAAAAABHwAAAH6AAEAxQAAAAAAAAAAAAAAAAAAAAAAAAAABmAALAo0RwE2AiQDCAsGAAQgBYRkByAb2AMIrgZs1xohjpaysmmlxiG9cs7K0mj8Zzz8t1+7b2YWs0b7mbiVxCHa6R7FS5cUibStWCKJZ5X6LZxqsgm9pHNNVfrY7yV5LEqKWQFpfylCekIm3CpQOjg9/085euKH69//3dSrgAIcE0DH/O8AA/rvxO9FlvDErQmOBRRoYBTEziR6bTNmkjnJNEOO00hDSa0kdtdD4l7TP0mjLZMUBABsXxRXtr167W+dg335Q0D8phYqFYQs0KOoVBRFYOa3/7EAkEBBoAsDKqAAomutUr33PX1LPU8Pa6PibaLs7A9ZX9t5RwUC4fB2Z2/61/86hvMjnJ/9g4up3rs65K+8qKJTAkFerFHJjyHiqgQAIMWYSpwbUkWyqG1CQwCAJNBmWl2UTuKBmxFG8mAkfamDzz5fRGrb9zjNKEWYxZaAYXtGwIwVKxbABS2gJUoGgT1axNAiQoJpAXgHOzweuKUhnktIjEQyRJkEd4RYTCPADyhAwncrxCdEXKD1knDSE85DJvgCgyNvEnc1u2dntBsRTUlJSbKLoUSCokwZh78BHPW8sncgBBTUg9KUgKeEn4ZoSsnAThAkKUQuATLszLGE7R4KgYRGH3XEDCKxHoZGT8V3cF69HHZYIoT4+l5i0rVXpw4duzfWD7sW4ZY/VbpFLCmPEKkD9YGmDQAAAA==") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+005A;
+}
+
 @font-face {
   font-family: "Sassoon Primary";
   src:
@@ -36,7 +59,7 @@ select {
 
 #content,
 #content * {
-  font-family: "Sassoon Primary", "SassoonPrimary", sans-serif;
+  font-family: "Sassoon Primary Z Fix", "Sassoon Primary", "SassoonPrimary", sans-serif;
 }
 
 #nav-container,
