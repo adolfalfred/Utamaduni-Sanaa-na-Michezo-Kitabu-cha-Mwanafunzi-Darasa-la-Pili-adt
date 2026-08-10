@@ -1,0 +1,59 @@
+{
+  "title": "Utamaduni, Sanaa na Michezo - Kitabu cha Mwanafunzi, Darasa la Pili",
+  "bundleVersion": "1",
+  "languages": {
+    "available": [
+      "sw-TZ"
+    ],
+    "default": "sw-TZ"
+  },
+  "features": {
+    "signLanguage": false,
+    "easyRead": true,
+    "glossary": true,
+    "eli5": false,
+    "readAloud": true,
+    "autoplay": true,
+    "showTutorial": true,
+    "showNavigationControls": true,
+    "describeImages": true,
+    "notepad": false,
+    "state": true,
+    "characterDisplay": false,
+    "highlight": false,
+    "activities": true
+  },
+  "braille": {
+    "enabled": true,
+    "implementationPhase": "classification-and-native-baseline",
+    "nativeTextInput": true,
+    "drawingResponses": true,
+    "sixKeyInput": false,
+    "translationTable": null,
+    "translationStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+    "activityManifest": "content/accessibility/braille-activity-manifest.json",
+    "sixKeyPilotStatus": "not-selected"
+  },
+  "analytics": {
+    "enabled": false,
+    "siteId": 0,
+    "trackerUrl": "https://unisitetracker.unicef.io/matomo.php",
+    "srcUrl": "https://unisitetracker.unicef.io/matomo.js"
+  },
+  "defaultSettings": {
+    "dockLayout": {
+      "width": "full",
+      "position": "bottom",
+      "align": "spread"
+    },
+    "theme": "dark",
+    "iconSize": "md",
+    "reduceMotion": false
+  },
+  "lockedSettings": [
+    "dockLayout",
+    "theme",
+    "iconSize",
+    "reduceMotion"
+  ]
+}

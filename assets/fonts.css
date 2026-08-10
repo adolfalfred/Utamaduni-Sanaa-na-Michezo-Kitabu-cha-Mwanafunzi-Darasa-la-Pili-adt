@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src: url("./fonts/AtkinsonHyperlegible-400-latin-ext.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src: url("./fonts/AtkinsonHyperlegible-700-latin-ext.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Sassoon Primary";
+  src:
+    local("Sassoon Primary"),
+    local("SassoonPrimary"),
+    url("./fonts/SassoonPrimary.woff2") format("woff2"),
+    url("./fonts/SassoonPrimary.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+body,
+button,
+input,
+textarea,
+select {
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+}
+
+#content,
+#content * {
+  font-family: "Sassoon Primary", "SassoonPrimary", sans-serif;
+}
+
+#nav-container,
+#nav-container *,
+#interface-container,
+#interface-container * {
+  font-family: "Atkinson Hyperlegible", Arial, sans-serif;
+}
+
+#content input,
+#content textarea,
+#content select {
+  font: inherit;
+}
