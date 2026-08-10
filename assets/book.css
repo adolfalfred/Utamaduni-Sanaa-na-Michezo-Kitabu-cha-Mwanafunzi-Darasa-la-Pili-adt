@@ -613,7 +613,8 @@ select:focus-visible {
 }
 
 .response-input,
-.response-textarea {
+.response-textarea,
+.response-select {
   display: block;
   width: 100%;
   color: var(--book-ink);
@@ -625,6 +626,24 @@ select:focus-visible {
 .response-input {
   min-height: 3rem;
   padding: 0.55rem 0.75rem;
+}
+
+.response-select {
+  min-height: 3.25rem;
+  padding: 0.55rem 2.5rem 0.55rem 0.75rem;
+  cursor: pointer;
+}
+
+.response-field-block--matching {
+  padding: 0.9rem;
+  background: rgb(255 255 255 / 68%);
+  border: 0.1rem solid rgb(141 87 163 / 42%);
+  border-radius: 0.75rem;
+}
+
+.matching-select:focus-visible {
+  outline: 0.2rem solid #2563eb;
+  outline-offset: 0.15rem;
 }
 
 .response-textarea {
