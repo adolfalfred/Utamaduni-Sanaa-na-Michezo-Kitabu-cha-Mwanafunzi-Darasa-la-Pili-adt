@@ -1977,7 +1977,7 @@
       "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg042043_n0011",
+      "inclusiveInstructionId": "pg042043_n0008",
       "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
       "answerDependentVisualIds": [
         "pg042043_im001",
@@ -2026,7 +2026,7 @@
       "nativeControlCount": 0,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg042043_n0018",
+      "inclusiveInstructionId": "pg042043_n0015",
       "inclusiveInstruction": "Igiza sauti za wanyama mbalimbali. Chagua mnyama unayempenda, kisha ujigambe kwa kuiga sauti yake na namna anavyotembea.",
       "answerDependentVisualIds": [
         "pg042043_im001",
@@ -2582,7 +2582,7 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg052056_n0023",
+      "inclusiveInstructionId": "pg052056_n0024",
       "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
       "answerDependentVisualIds": [
         "pg052056_im001",
@@ -2640,7 +2640,7 @@
       "nativeControlCount": 1,
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
-      "inclusiveInstructionId": "pg052056_n0029",
+      "inclusiveInstructionId": "pg052056_n0030",
       "inclusiveInstruction": "Chunguza uwanja halisi au mchoro wa mguso wa duara uliotolewa na mwalimu, kisha chora, taja au eleza duara la mchezo kwa kutumia mchoro, maandishi, kibodi au Breli na ucheze mchezo wa kukimbia kwa kijiti na wenzako.",
       "answerDependentVisualIds": [
         "pg052056_im001",
