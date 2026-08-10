@@ -2,7 +2,7 @@
   "bookTitle": "Utamaduni, Sanaa na Michezo - Kitabu cha Mwanafunzi, Darasa la Pili",
   "manifestPurpose": "Mapitio ya mwalimu mwenye sifa kuhusu shughuli, majibu ya kibodi au Breli, nyenzo za mguso, na taarifa za vielelezo.",
   "generatedDate": "2026-08-10",
-  "reviewStatus": "classification-complete-awaiting-qualified-review",
+  "reviewStatus": "native-baseline-implemented-awaiting-qualified-review",
   "brailleCode": null,
   "translationTable": null,
   "sixKeyInputEnabled": false,
@@ -10,7 +10,7 @@
   "summary": {
     "activities": 60,
     "expectedDigitalResponseUnits": 166,
-    "nativeKeyboardOrBrailleAlternatives": 8,
+    "nativeKeyboardOrBrailleAlternatives": 44,
     "tactileResourceRequired": 20,
     "sixKeyPilotCandidates": 0
   },
@@ -35,9 +35,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg007009_n0013",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg007009_im001",
+        "pg007009_im002",
+        "pg007009_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg007009_im001_audio_description",
+        "pg007009_im002_audio_description",
+        "pg007009_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -74,8 +88,22 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg007009_n0019",
+      "inclusiveInstruction": "Chunguza picha, video, nyumba halisi au mchoro wa mguso wa nyumba ya msonge uliotolewa na mwalimu, kisha chora, taja au eleza nyumba hiyo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg007009_im001",
+        "pg007009_im002",
+        "pg007009_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg007009_im001_audio_description",
+        "pg007009_im002_audio_description",
+        "pg007009_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -111,9 +139,21 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg009011_n0006",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg009011_im001",
+        "pg009011_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg009011_im001_audio_description",
+        "pg009011_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -150,8 +190,20 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg009011_n0013",
+      "inclusiveInstruction": "Chunguza picha, video, nyumba halisi au mchoro wa mguso wa nyumba ya banda uliotolewa na mwalimu, kisha chora, taja au eleza nyumba hiyo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg009011_im001",
+        "pg009011_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg009011_im001_audio_description",
+        "pg009011_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -187,9 +239,21 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg011013_n0006",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg011013_im001",
+        "pg011013_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg011013_im001_audio_description",
+        "pg011013_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -226,8 +290,20 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg011013_n0012",
+      "inclusiveInstruction": "Chunguza picha, video, nyumba halisi au mchoro wa mguso wa nyumba ya tembe uliotolewa na mwalimu, kisha chora, taja au eleza nyumba hiyo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg011013_im001",
+        "pg011013_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg011013_im001_audio_description",
+        "pg011013_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -264,9 +340,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 9,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg013014_n0003",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -302,9 +384,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg014016_n0009",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg014016_im001",
+        "pg014016_im002",
+        "pg014016_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg014016_im001_audio_description",
+        "pg014016_im002_audio_description",
+        "pg014016_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -340,9 +436,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg014016_n0015",
+      "inclusiveInstruction": "Chunguza jamii nyingine zinazojishughulisha na ufugaji zilizopo katika eneo unaloishi.",
+      "answerDependentVisualIds": [
+        "pg014016_im001",
+        "pg014016_im002",
+        "pg014016_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg014016_im001_audio_description",
+        "pg014016_im002_audio_description",
+        "pg014016_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -379,9 +489,25 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 10,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg016018_n0008",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg016018_im001",
+        "pg016018_im002",
+        "pg016018_im003",
+        "pg016018_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg016018_im001_audio_description",
+        "pg016018_im002_audio_description",
+        "pg016018_im003_audio_description",
+        "pg016018_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -417,9 +543,25 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg016018_n0021",
+      "inclusiveInstruction": "Uliza watu wanaokuzunguka kuhusu mazao yanayolimwa katika jamii yako.",
+      "answerDependentVisualIds": [
+        "pg016018_im001",
+        "pg016018_im002",
+        "pg016018_im003",
+        "pg016018_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg016018_im001_audio_description",
+        "pg016018_im002_audio_description",
+        "pg016018_im003_audio_description",
+        "pg016018_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -455,9 +597,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 2,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg018019_n0005",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg018019_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg018019_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -494,8 +646,18 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg018019_n0010",
+      "inclusiveInstruction": "Chunguza picha au video za shughuli za uvuvi na ushike kifaa halisi au mchoro wa mguso uliotolewa na mwalimu, kisha chora, taja au eleza kifaa cha uvuvi kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg018019_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg018019_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -531,9 +693,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 2,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg020_n0005",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg020_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg020_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -562,7 +734,7 @@
       "sourceLabel": "Shughuli ya saba",
       "expectedResponses": 7,
       "taskType": "mixed-drawing",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
       "inputMethods": [
         "keyboard",
         "braille-display",
@@ -570,8 +742,14 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 7,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg021_n0003",
+      "inclusiveInstruction": "Tembelea eneo la biashara, chunguza bidhaa halisi kwa kuona au kugusa kwa ruhusa, kisha andika, chora, taja au eleza bidhaa ulizoona kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -607,9 +785,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 9,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg021_n0015",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -645,9 +829,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 2,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg022_n0007",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg022_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg022_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -683,9 +877,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg023024_n0003",
+      "inclusiveInstruction": "Jibu shughuli hii kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -721,9 +921,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg023024_n0012",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -752,16 +958,19 @@
       "sourceLabel": "Shughuli ya pili",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg023024_n0018",
+      "inclusiveInstruction": "Kwa ufupi simulia hadithi uliyosoma mbele ya wanafunzi wengine.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -797,9 +1006,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg024026_n0033",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg024026_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg024026_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -828,16 +1047,23 @@
       "sourceLabel": "Shughuli ya tatu",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg024026_n0039",
+      "inclusiveInstruction": "Uliza kwa wazazi au walezi kuhusu sherehe za kidini zinazosherehekewa kila mwaka katika jamii yako.",
+      "answerDependentVisualIds": [
+        "pg024026_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg024026_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -873,9 +1099,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg027_n0003",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -911,9 +1143,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg028030_n0012",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg028030_im001",
+        "pg028030_im002",
+        "pg028030_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg028030_im001_audio_description",
+        "pg028030_im002_audio_description",
+        "pg028030_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -942,16 +1188,27 @@
       "sourceLabel": "Shughuli ya kwanza",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg028030_n0019",
+      "inclusiveInstruction": "Fuma kitu chochote kwa kutumia uzi na sindano au kijiti.",
+      "answerDependentVisualIds": [
+        "pg028030_im001",
+        "pg028030_im002",
+        "pg028030_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg028030_im001_audio_description",
+        "pg028030_im002_audio_description",
+        "pg028030_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -987,9 +1244,21 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg030031_n0007",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg030031_im001",
+        "pg030031_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg030031_im001_audio_description",
+        "pg030031_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1018,16 +1287,25 @@
       "sourceLabel": "Shughuli ya pili",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg030031_n0013",
+      "inclusiveInstruction": "Tumia uzi na sindano kuunganisha vitambaa ili kupata mfuko wa kubebea daftari.",
+      "answerDependentVisualIds": [
+        "pg030031_im001",
+        "pg030031_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg030031_im001_audio_description",
+        "pg030031_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1063,9 +1341,21 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg031033_n0007",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg031033_im001",
+        "pg031033_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg031033_im001_audio_description",
+        "pg031033_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1094,16 +1384,25 @@
       "sourceLabel": "Shughuli ya tatu",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg031033_n0014",
+      "inclusiveInstruction": "Tumia udongo kufinyanga kitu unachokipenda.",
+      "answerDependentVisualIds": [
+        "pg031033_im001",
+        "pg031033_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg031033_im001_audio_description",
+        "pg031033_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1139,9 +1438,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 7,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg033035_n0008",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg033035_im001",
+        "pg033035_im002",
+        "pg033035_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg033035_im001_audio_description",
+        "pg033035_im002_audio_description",
+        "pg033035_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1170,16 +1483,27 @@
       "sourceLabel": "Shughuli ya nne",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg033035_n0018",
+      "inclusiveInstruction": "Chonga kitu kimoja unachokipenda kwa kutumia kipande cha mti kutoka kwenye mazingira yako.",
+      "answerDependentVisualIds": [
+        "pg033035_im001",
+        "pg033035_im002",
+        "pg033035_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg033035_im001_audio_description",
+        "pg033035_im002_audio_description",
+        "pg033035_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1215,9 +1539,25 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg035036_n0009",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg035036_im001",
+        "pg035036_im002",
+        "pg035036_im003",
+        "pg035036_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg035036_im001_audio_description",
+        "pg035036_im002_audio_description",
+        "pg035036_im003_audio_description",
+        "pg035036_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1254,8 +1594,24 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg035036_n0015",
+      "inclusiveInstruction": "Chunguza maumbo halisi au ya mguso yaliyotolewa na mwalimu, kisha chora, taja au eleza maumbo matatu ya ukumbi na nakshi zake kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg035036_im001",
+        "pg035036_im002",
+        "pg035036_im003",
+        "pg035036_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg035036_im001_audio_description",
+        "pg035036_im002_audio_description",
+        "pg035036_im003_audio_description",
+        "pg035036_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1291,9 +1647,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg036037_n0006",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg036037_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg036037_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1330,8 +1696,18 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg036037_n0012",
+      "inclusiveInstruction": "Chunguza meza halisi au mchoro wake wa mguso uliotolewa na mwalimu, kisha chora, taja au eleza meza na nakshi uipendayo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg036037_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg036037_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1367,9 +1743,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 2,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg038_n0006",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg038_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg038_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1398,16 +1784,23 @@
       "sourceLabel": "Shughuli ya saba",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg038_n0011",
+      "inclusiveInstruction": "Suka kamba kwa kutumia vifaa vinavyopatikana katika mazingira yako.",
+      "answerDependentVisualIds": [
+        "pg038_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg038_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1443,9 +1836,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 8,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg039_n0016",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1481,9 +1880,19 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg040041_n0040",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg040041_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg040041_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1512,16 +1921,23 @@
       "sourceLabel": "Shughuli ya nane",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg040041_n0046",
+      "inclusiveInstruction": "Tamba ngonjera uliyoisoma.",
+      "answerDependentVisualIds": [
+        "pg040041_im001"
+      ],
+      "visualDescriptionIds": [
+        "pg040041_im001_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1557,9 +1973,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg042043_n0011",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg042043_im001",
+        "pg042043_im002",
+        "pg042043_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg042043_im001_audio_description",
+        "pg042043_im002_audio_description",
+        "pg042043_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1588,16 +2018,27 @@
       "sourceLabel": "Shughuli ya tisa",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg042043_n0018",
+      "inclusiveInstruction": "Igiza sauti za wanyama mbalimbali. Chagua mnyama unayempenda, kisha ujigambe kwa kuiga sauti yake na namna anavyotembea.",
+      "answerDependentVisualIds": [
+        "pg042043_im001",
+        "pg042043_im002",
+        "pg042043_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg042043_im001_audio_description",
+        "pg042043_im002_audio_description",
+        "pg042043_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1633,9 +2074,21 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg043045_n0013",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg043045_im001",
+        "pg043045_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg043045_im001_audio_description",
+        "pg043045_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1664,16 +2117,25 @@
       "sourceLabel": "Shughuli ya kumi",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg043045_n0019",
+      "inclusiveInstruction": "Chukua kioo na ujiangalie huku ukibadili mwonekano wa uso wako. Andaa kichekesho na uchekeshe mbele ya wenzako darasani.",
+      "answerDependentVisualIds": [
+        "pg043045_im001",
+        "pg043045_im002"
+      ],
+      "visualDescriptionIds": [
+        "pg043045_im001_audio_description",
+        "pg043045_im002_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1709,9 +2171,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg046_n0003",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1747,9 +2215,25 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg046047_n0009",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg046047_im001",
+        "pg046047_im002",
+        "pg046047_im003",
+        "pg046047_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg046047_im001_audio_description",
+        "pg046047_im002_audio_description",
+        "pg046047_im003_audio_description",
+        "pg046047_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1778,16 +2262,29 @@
       "sourceLabel": "Shughuli ya kumi na moja",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg046047_n0015",
+      "inclusiveInstruction": "Fanya mazoezi ya kuigiza kama mwanafunzi aliyeko katika picha namba 1. Tengeneza kinyago cha sura ya mnyama au ndege, kisha kitumie kuigiza tabia zake.",
+      "answerDependentVisualIds": [
+        "pg046047_im001",
+        "pg046047_im002",
+        "pg046047_im003",
+        "pg046047_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg046047_im001_audio_description",
+        "pg046047_im002_audio_description",
+        "pg046047_im003_audio_description",
+        "pg046047_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1823,9 +2320,29 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 2,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg048049_n0011",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg048049_im001",
+        "pg048049_im002",
+        "pg048049_im003",
+        "pg048049_im004",
+        "pg048049_im005",
+        "pg048049_im006"
+      ],
+      "visualDescriptionIds": [
+        "pg048049_im001_audio_description",
+        "pg048049_im002_audio_description",
+        "pg048049_im003_audio_description",
+        "pg048049_im004_audio_description",
+        "pg048049_im005_audio_description",
+        "pg048049_im006_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1854,16 +2371,33 @@
       "sourceLabel": "Shughuli ya kumi na mbili",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg048049_n0016",
+      "inclusiveInstruction": "Cheza mchezo wa sarakasi.",
+      "answerDependentVisualIds": [
+        "pg048049_im001",
+        "pg048049_im002",
+        "pg048049_im003",
+        "pg048049_im004",
+        "pg048049_im005",
+        "pg048049_im006"
+      ],
+      "visualDescriptionIds": [
+        "pg048049_im001_audio_description",
+        "pg048049_im002_audio_description",
+        "pg048049_im003_audio_description",
+        "pg048049_im004_audio_description",
+        "pg048049_im005_audio_description",
+        "pg048049_im006_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1899,9 +2433,23 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 9,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg049051_n0008",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg049051_im001",
+        "pg049051_im002",
+        "pg049051_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg049051_im001_audio_description",
+        "pg049051_im002_audio_description",
+        "pg049051_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1930,16 +2478,27 @@
       "sourceLabel": "Shughuli ya kumi na tatu",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg049051_n0020",
+      "inclusiveInstruction": "Cheza na wenzako ngoma zinazochezwa katika jamii unayoishi.",
+      "answerDependentVisualIds": [
+        "pg049051_im001",
+        "pg049051_im002",
+        "pg049051_im003"
+      ],
+      "visualDescriptionIds": [
+        "pg049051_im001_audio_description",
+        "pg049051_im002_audio_description",
+        "pg049051_im003_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -1975,9 +2534,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 10,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg051_n0003",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2013,9 +2578,29 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg052056_n0023",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg052056_im001",
+        "pg052056_im002",
+        "pg052056_im003",
+        "pg052056_im004",
+        "pg052056_im005",
+        "pg052056_im006"
+      ],
+      "visualDescriptionIds": [
+        "pg052056_im001_audio_description",
+        "pg052056_im002_audio_description",
+        "pg052056_im003_audio_description",
+        "pg052056_im004_audio_description",
+        "pg052056_im005_audio_description",
+        "pg052056_im006_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2052,8 +2637,28 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 1,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg052056_n0029",
+      "inclusiveInstruction": "Chunguza uwanja halisi au mchoro wa mguso wa duara uliotolewa na mwalimu, kisha chora, taja au eleza duara la mchezo kwa kutumia mchoro, maandishi, kibodi au Breli na ucheze mchezo wa kukimbia kwa kijiti na wenzako.",
+      "answerDependentVisualIds": [
+        "pg052056_im001",
+        "pg052056_im002",
+        "pg052056_im003",
+        "pg052056_im004",
+        "pg052056_im005",
+        "pg052056_im006"
+      ],
+      "visualDescriptionIds": [
+        "pg052056_im001_audio_description",
+        "pg052056_im002_audio_description",
+        "pg052056_im003_audio_description",
+        "pg052056_im004_audio_description",
+        "pg052056_im005_audio_description",
+        "pg052056_im006_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2089,9 +2694,35 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg057063_n0040",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg057063_im001",
+        "pg057063_im002",
+        "pg057063_im003",
+        "pg057063_im004",
+        "pg057063_im005",
+        "pg057063_im006",
+        "pg057063_im007",
+        "pg057063_im008",
+        "pg057063_im009"
+      ],
+      "visualDescriptionIds": [
+        "pg057063_im001_audio_description",
+        "pg057063_im002_audio_description",
+        "pg057063_im003_audio_description",
+        "pg057063_im004_audio_description",
+        "pg057063_im005_audio_description",
+        "pg057063_im006_audio_description",
+        "pg057063_im007_audio_description",
+        "pg057063_im008_audio_description",
+        "pg057063_im009_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2120,16 +2751,39 @@
       "sourceLabel": "Shughuli ya pili",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg057063_n0046",
+      "inclusiveInstruction": "Cheza michezo ya kulenga shabaha ukianzia karibu na kuongeza umbali kidogokidogo.",
+      "answerDependentVisualIds": [
+        "pg057063_im001",
+        "pg057063_im002",
+        "pg057063_im003",
+        "pg057063_im004",
+        "pg057063_im005",
+        "pg057063_im006",
+        "pg057063_im007",
+        "pg057063_im008",
+        "pg057063_im009"
+      ],
+      "visualDescriptionIds": [
+        "pg057063_im001_audio_description",
+        "pg057063_im002_audio_description",
+        "pg057063_im003_audio_description",
+        "pg057063_im004_audio_description",
+        "pg057063_im005_audio_description",
+        "pg057063_im006_audio_description",
+        "pg057063_im007_audio_description",
+        "pg057063_im008_audio_description",
+        "pg057063_im009_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2165,9 +2819,25 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg064067_n0028",
+      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [
+        "pg064067_im001",
+        "pg064067_im002",
+        "pg064067_im003",
+        "pg064067_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg064067_im001_audio_description",
+        "pg064067_im002_audio_description",
+        "pg064067_im003_audio_description",
+        "pg064067_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2196,16 +2866,29 @@
       "sourceLabel": "Shughuli ya tatu",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg064067_n0035",
+      "inclusiveInstruction": "Andaa eneo na timu mbili zitakazoshiriki kucheza mchezo wa kutafuta mpira kwa miguu au kwa mikono. Cheza mchezo wa kutafuta mpira.",
+      "answerDependentVisualIds": [
+        "pg064067_im001",
+        "pg064067_im002",
+        "pg064067_im003",
+        "pg064067_im004"
+      ],
+      "visualDescriptionIds": [
+        "pg064067_im001_audio_description",
+        "pg064067_im002_audio_description",
+        "pg064067_im003_audio_description",
+        "pg064067_im004_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2234,16 +2917,33 @@
       "sourceLabel": "Shughuli ya nne",
       "expectedResponses": 0,
       "taskType": "practical-no-field",
-      "expectedResponseType": "native-text-or-braille",
+      "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
-        "keyboard",
-        "braille-display",
-        "touch",
-        "stylus"
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": false,
+      "nativeControlCount": 0,
       "tactileResourceRequired": true,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
+      "inclusiveInstructionId": "pg068071_n0023",
+      "inclusiveInstruction": "Shirikiana na wenzako katika jozi kupiga mkwaju wa penalti. Mchezaji mmoja atakuwa mlinda mlango kuzuia mpira usiingie golini. Kila mchezaji apige mikwaju mitatu ya penalti, kisha mtabadilishana majukumu.",
+      "answerDependentVisualIds": [
+        "pg068071_im001",
+        "pg068071_im002",
+        "pg068071_im003",
+        "pg068071_im004",
+        "pg068071_im005",
+        "pg068071_im006"
+      ],
+      "visualDescriptionIds": [
+        "pg068071_im001_audio_description",
+        "pg068071_im002_audio_description",
+        "pg068071_im003_audio_description",
+        "pg068071_im004_audio_description",
+        "pg068071_im005_audio_description",
+        "pg068071_im006_audio_description"
+      ],
+      "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,
@@ -2280,9 +2980,15 @@
         "touch",
         "stylus"
       ],
-      "nativeBrailleInputAvailable": false,
+      "nativeBrailleInputAvailable": true,
+      "nativeControlCount": 9,
       "tactileResourceRequired": false,
-      "tactileResourceDecision": null,
+      "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
+      "inclusiveInstructionId": "pg071072_n0014",
+      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "answerDependentVisualIds": [],
+      "visualDescriptionIds": [],
+      "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
       "sixKeyPilotCandidate": false,
       "brailleCode": null,
       "translationTable": null,

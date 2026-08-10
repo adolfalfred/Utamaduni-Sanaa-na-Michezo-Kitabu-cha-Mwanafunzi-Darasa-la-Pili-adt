@@ -210,9 +210,41 @@
     }
   }
 
+  function initialisePageSubmission(root) {
+    var button = root.querySelector("[data-page-submit]");
+    var status = root.querySelector("[data-page-submit-status]");
+    var responses = Array.prototype.slice.call(root.querySelectorAll("[data-response]"));
+    if (!button || responses.length === 0) return;
+
+    function isComplete(control) {
+      return String(control.value || "").trim().length > 0;
+    }
+
+    function updateSubmissionState() {
+      var complete = responses.every(isComplete);
+      button.disabled = !complete;
+      button.setAttribute("aria-disabled", complete ? "false" : "true");
+      if (!complete && status) status.textContent = "";
+    }
+
+    responses.forEach(function (control) {
+      control.addEventListener("input", updateSubmissionState);
+      control.addEventListener("change", updateSubmissionState);
+    });
+    button.addEventListener("click", function () {
+      if (button.disabled) return;
+      if (status) {
+        status.classList.remove("sr-only");
+        status.textContent = "Majibu yamehifadhiwa kwa mapitio ya mwalimu.";
+      }
+    });
+    updateSubmissionState();
+  }
+
   function initialise(root) {
     root.querySelectorAll("[data-drawing-response]").forEach(initialiseDrawingResponse);
     root.querySelectorAll("[data-activity-id]").forEach(initialiseActivity);
+    initialisePageSubmission(root);
   }
 
   if (document.readyState === "loading") {
