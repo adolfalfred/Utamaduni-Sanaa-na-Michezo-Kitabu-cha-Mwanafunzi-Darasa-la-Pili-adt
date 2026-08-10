@@ -273,6 +273,373 @@ select:focus-visible {
   object-fit: contain;
 }
 
+.chapter-kicker {
+  margin: 0 0 0.35rem;
+  font-size: clamp(1rem, 2vw, 1.35rem);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.adt-h2,
+.adt-h3 {
+  max-width: 70ch;
+  margin: 2rem auto 0.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.adt-h2 {
+  font-size: clamp(1.55rem, 2.4vw, 2.2rem);
+  color: #064e63;
+}
+
+.adt-h3 {
+  font-size: clamp(1.3rem, 2vw, 1.7rem);
+}
+
+.book-content > section > p:not(.source-page-number),
+.book-content > section > .lesson-list,
+.book-content > section > .procedure,
+.book-content > section > .dialogue,
+.book-content > section > .poem {
+  max-width: 70ch;
+  margin-inline: auto;
+  font-size: clamp(1.25rem, 1.3vw + 1rem, 1.65rem);
+  line-height: 1.65;
+}
+
+.guide-callout {
+  display: grid;
+  grid-template-columns: minmax(5.5rem, 9rem) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(1rem, 3vw, 2rem);
+  max-width: 62rem;
+  margin: 1.5rem auto 2rem;
+  padding: clamp(1rem, 3vw, 1.75rem);
+  background: #fef9c3;
+  border: 0.2rem solid #eab308;
+  border-radius: 1.25rem;
+}
+
+.guide-callout img {
+  display: block;
+  width: 100%;
+  max-height: 10rem;
+  object-fit: contain;
+}
+
+.guide-callout-copy {
+  margin: 0;
+  font-size: clamp(1.35rem, 2vw, 1.9rem);
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.lesson-figure,
+.picture-card {
+  margin: 1.25rem auto;
+}
+
+.lesson-figure {
+  max-width: 58rem;
+  text-align: center;
+}
+
+.lesson-figure img,
+.picture-card img {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-height: 34rem;
+  margin-inline: auto;
+  object-fit: contain;
+}
+
+.picture-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  align-items: stretch;
+  gap: clamp(1rem, 3vw, 2rem);
+  max-width: 66rem;
+  margin: 1.5rem auto 2.25rem;
+}
+
+.picture-card {
+  width: 100%;
+  padding: 1rem;
+  background: #f8fafc;
+  border: 0.14rem solid var(--book-rule);
+  border-radius: 1rem;
+}
+
+.picture-label {
+  display: block;
+  margin-top: 0.75rem;
+  font-size: 1.2rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
+.lesson-list,
+.procedure-list {
+  padding-left: 1.8em;
+}
+
+.lesson-list li,
+.procedure-list li {
+  padding-left: 0.4em;
+  margin-bottom: 0.7em;
+}
+
+.procedure {
+  margin-block: 2rem;
+  padding: clamp(1rem, 3vw, 1.75rem);
+  background: #ecfeff;
+  border-left: 0.4rem solid var(--book-cyan-dark);
+  border-radius: 0.75rem;
+}
+
+.procedure .adt-h2 {
+  margin-top: 0;
+}
+
+.activity-panel {
+  max-width: 66rem;
+  margin: 2.5rem auto;
+  padding: clamp(1rem, 3vw, 2rem);
+  background: #f0fdfa;
+  border: 0.2rem solid #14b8a6;
+  border-radius: 1.25rem;
+}
+
+.activity-panel .adt-h2 {
+  margin-top: 0;
+}
+
+.activity-instruction,
+.prompt-block,
+.response-field-block {
+  font-size: clamp(1.2rem, 1vw + 1rem, 1.5rem);
+  line-height: 1.5;
+}
+
+.activity-instruction {
+  margin: 0 0 1.2rem;
+  font-weight: 700;
+}
+
+.response-list {
+  display: grid;
+  gap: 1.4rem;
+}
+
+.response-field-block label {
+  display: block;
+  margin-bottom: 0.45rem;
+  font-weight: 700;
+}
+
+.response-input,
+.response-textarea {
+  display: block;
+  width: 100%;
+  color: var(--book-ink);
+  background: #fff;
+  border: 0.15rem solid #64748b;
+  border-radius: 0.65rem;
+}
+
+.response-input {
+  min-height: 3rem;
+  padding: 0.55rem 0.75rem;
+}
+
+.response-textarea {
+  min-height: 6rem;
+  padding: 0.75rem;
+  resize: vertical;
+}
+
+.activity-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.activity-button {
+  min-height: 2.75rem;
+  padding: 0.55rem 1rem;
+  color: #fff;
+  font: inherit;
+  font-weight: 700;
+  background: #0f766e;
+  border: 0;
+  border-radius: 0.65rem;
+  cursor: pointer;
+}
+
+.activity-button:hover {
+  background: #115e59;
+}
+
+.activity-button-secondary {
+  color: #0f172a;
+  background: #ccfbf1;
+  border: 0.12rem solid #0f766e;
+}
+
+.activity-button-secondary:hover {
+  background: #99f6e4;
+}
+
+.practical-activity {
+  background: #fff7ed;
+  border-color: #f97316;
+}
+
+.drawing-response-grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.drawing-response-card {
+  padding: 1rem;
+  background: #fff;
+  border: 0.14rem solid #94a3b8;
+  border-radius: 0.9rem;
+}
+
+.drawing-response-label {
+  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+}
+
+.drawing-canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 12rem;
+  touch-action: none;
+  background: #fff;
+  border: 0.15rem dashed #475569;
+  border-radius: 0.6rem;
+}
+
+.drawing-tools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-block: 0.85rem;
+}
+
+.drawing-colour-label,
+.drawing-alternative-label {
+  font-weight: 700;
+}
+
+.drawing-colour {
+  width: 3.25rem;
+  height: 2.75rem;
+}
+
+.drawing-alternative-label,
+.drawing-alternative {
+  display: block;
+  width: 100%;
+}
+
+.table-scroll {
+  max-width: 66rem;
+  margin: 1.5rem auto 2rem;
+  overflow-x: auto;
+}
+
+.lesson-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: clamp(1.1rem, 1vw + 0.9rem, 1.4rem);
+}
+
+.lesson-table th,
+.lesson-table td {
+  padding: 0.8rem;
+  text-align: left;
+  vertical-align: top;
+  border: 0.12rem solid #64748b;
+}
+
+.lesson-table th {
+  background: #cffafe;
+}
+
+.table-caption {
+  margin-bottom: 0.75rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+  text-align: left;
+}
+
+.dialogue {
+  display: grid;
+  grid-template-columns: minmax(8rem, 0.28fr) minmax(0, 1fr);
+  gap: 0.75rem 1rem;
+  margin-block: 1.5rem;
+}
+
+.dialogue dt {
+  font-weight: 700;
+}
+
+.dialogue dd {
+  margin: 0;
+}
+
+.poem-stanza {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  gap: 0.75rem;
+  margin-block: 1.25rem;
+}
+
+.poem-number {
+  margin: 0;
+}
+
+.poem-stanza p {
+  margin: 0;
+}
+
+.poem-line {
+  display: block;
+}
+
+.speech-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 1.5rem;
+  max-width: 66rem;
+  margin: 1.5rem auto 2rem;
+}
+
+.speech-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.speech-panel {
+  flex: 1;
+  margin: 0;
+  padding: 1rem;
+  font-size: 1.2rem;
+  line-height: 1.45;
+  background: #fef9c3;
+  border: 0.15rem solid #ca8a04;
+  border-radius: 1rem;
+}
+
 @media (max-width: 44rem) {
   .book-content {
     padding: 0.75rem 1rem 8.5rem;
@@ -323,6 +690,23 @@ select:focus-visible {
   .source-art-image {
     max-height: none;
     width: 100%;
+  }
+
+  .guide-callout {
+    grid-template-columns: 5rem minmax(0, 1fr);
+  }
+
+  .picture-grid,
+  .speech-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .dialogue {
+    grid-template-columns: 1fr;
+  }
+
+  .dialogue dd {
+    margin-bottom: 0.8rem;
   }
 }
 
