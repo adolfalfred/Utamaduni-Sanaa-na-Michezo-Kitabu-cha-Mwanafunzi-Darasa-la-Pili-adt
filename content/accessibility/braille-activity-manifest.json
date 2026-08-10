@@ -1,0 +1,2302 @@
+{
+  "bookTitle": "Utamaduni, Sanaa na Michezo - Kitabu cha Mwanafunzi, Darasa la Pili",
+  "manifestPurpose": "Mapitio ya mwalimu mwenye sifa kuhusu shughuli, majibu ya kibodi au Breli, nyenzo za mguso, na taarifa za vielelezo.",
+  "generatedDate": "2026-08-10",
+  "reviewStatus": "classification-complete-awaiting-qualified-review",
+  "brailleCode": null,
+  "translationTable": null,
+  "sixKeyInputEnabled": false,
+  "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
+  "summary": {
+    "activities": 60,
+    "expectedDigitalResponseUnits": 166,
+    "nativeKeyboardOrBrailleAlternatives": 8,
+    "tactileResourceRequired": 20,
+    "sixKeyPilotCandidates": 0
+  },
+  "activities": [
+    {
+      "activityId": "pg007009-maswali",
+      "sequence": 1,
+      "href": "pg007009_sec001.html",
+      "sectionId": "pg007009_sec001",
+      "sectionTitle": "Nyumba ya msonge",
+      "sourcePages": [
+        9
+      ],
+      "printedPages": "3",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg007009-shughuli-1",
+      "sequence": 2,
+      "href": "pg007009_sec001.html",
+      "sectionId": "pg007009_sec001",
+      "sectionTitle": "Nyumba ya msonge",
+      "sourcePages": [
+        9
+      ],
+      "printedPages": "3",
+      "sourceLabel": "Shughuli ya kwanza",
+      "expectedResponses": 1,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg009011-maswali",
+      "sequence": 3,
+      "href": "pg009011_sec002.html",
+      "sectionId": "pg009011_sec002",
+      "sectionTitle": "Nyumba ya banda",
+      "sourcePages": [
+        11
+      ],
+      "printedPages": "5",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 4,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg009011-shughuli-2",
+      "sequence": 4,
+      "href": "pg009011_sec002.html",
+      "sectionId": "pg009011_sec002",
+      "sectionTitle": "Nyumba ya banda",
+      "sourcePages": [
+        11
+      ],
+      "printedPages": "5",
+      "sourceLabel": "Shughuli ya pili",
+      "expectedResponses": 1,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg011013-maswali",
+      "sequence": 5,
+      "href": "pg011013_sec002.html",
+      "sectionId": "pg011013_sec002",
+      "sectionTitle": "Nyumba ya tembe",
+      "sourcePages": [
+        12
+      ],
+      "printedPages": "6",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg011013-shughuli-3",
+      "sequence": 6,
+      "href": "pg011013_sec002.html",
+      "sectionId": "pg011013_sec002",
+      "sectionTitle": "Nyumba ya tembe",
+      "sourcePages": [
+        13
+      ],
+      "printedPages": "7",
+      "sourceLabel": "Shughuli ya tatu",
+      "expectedResponses": 1,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg013014-zoezi-1",
+      "sequence": 7,
+      "href": "pg013014_sec002.html",
+      "sectionId": "pg013014_sec002",
+      "sectionTitle": "Zoezi la kwanza",
+      "sourcePages": [
+        13,
+        14
+      ],
+      "printedPages": "7-8",
+      "sourceLabel": "Zoezi la kwanza",
+      "expectedResponses": 9,
+      "taskType": "mixed",
+      "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg014016-maswali",
+      "sequence": 8,
+      "href": "pg014016_sec002.html",
+      "sectionId": "pg014016_sec002",
+      "sectionTitle": "Ufugaji",
+      "sourcePages": [
+        16
+      ],
+      "printedPages": "10",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg014016-shughuli-4",
+      "sequence": 9,
+      "href": "pg014016_sec002.html",
+      "sectionId": "pg014016_sec002",
+      "sectionTitle": "Ufugaji",
+      "sourcePages": [
+        16
+      ],
+      "printedPages": "10",
+      "sourceLabel": "Shughuli ya nne",
+      "expectedResponses": 1,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg016018-maswali",
+      "sequence": 10,
+      "href": "pg016018_sec002.html",
+      "sectionId": "pg016018_sec002",
+      "sectionTitle": "Kilimo",
+      "sourcePages": [
+        17,
+        18
+      ],
+      "printedPages": "11-12",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 10,
+      "taskType": "mixed",
+      "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg016018-shughuli-5",
+      "sequence": 11,
+      "href": "pg016018_sec002.html",
+      "sectionId": "pg016018_sec002",
+      "sectionTitle": "Kilimo",
+      "sourcePages": [
+        18
+      ],
+      "printedPages": "12",
+      "sourceLabel": "Shughuli ya tano",
+      "expectedResponses": 1,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg018019-maswali",
+      "sequence": 12,
+      "href": "pg018019_sec002.html",
+      "sectionId": "pg018019_sec002",
+      "sectionTitle": "Uvuvi",
+      "sourcePages": [
+        19
+      ],
+      "printedPages": "13",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 2,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg018019-shughuli-6",
+      "sequence": 13,
+      "href": "pg018019_sec002.html",
+      "sectionId": "pg018019_sec002",
+      "sectionTitle": "Uvuvi",
+      "sourcePages": [
+        19
+      ],
+      "printedPages": "13",
+      "sourceLabel": "Shughuli ya sita",
+      "expectedResponses": 1,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg020-maswali",
+      "sequence": 14,
+      "href": "pg020_sec001.html",
+      "sectionId": "pg020_sec001",
+      "sectionTitle": "Biashara",
+      "sourcePages": [
+        20
+      ],
+      "printedPages": "14",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 2,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg021-shughuli-7",
+      "sequence": 15,
+      "href": "pg021_sec001.html",
+      "sectionId": "pg021_sec001",
+      "sectionTitle": "Shughuli ya saba na Zoezi la pili",
+      "sourcePages": [
+        21
+      ],
+      "printedPages": "15",
+      "sourceLabel": "Shughuli ya saba",
+      "expectedResponses": 7,
+      "taskType": "mixed-drawing",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg021-zoezi-2",
+      "sequence": 16,
+      "href": "pg021_sec001.html",
+      "sectionId": "pg021_sec001",
+      "sectionTitle": "Shughuli ya saba na Zoezi la pili",
+      "sourcePages": [
+        21
+      ],
+      "printedPages": "15",
+      "sourceLabel": "Zoezi la pili",
+      "expectedResponses": 9,
+      "taskType": "mixed",
+      "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg022-maswali",
+      "sequence": 17,
+      "href": "pg022_sec001.html",
+      "sectionId": "pg022_sec001",
+      "sectionTitle": "Ninaheshimu tofauti za kiimani na maadili",
+      "sourcePages": [
+        22
+      ],
+      "printedPages": "16",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 2,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg023024-shughuli-1",
+      "sequence": 18,
+      "href": "pg023024_sec001.html",
+      "sectionId": "pg023024_sec001",
+      "sectionTitle": "Hadithi ya Baraka, Furaha na Tumaini",
+      "sourcePages": [
+        23
+      ],
+      "printedPages": "17",
+      "sourceLabel": "Shughuli ya kwanza",
+      "expectedResponses": 1,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg023024-maswali",
+      "sequence": 19,
+      "href": "pg023024_sec001.html",
+      "sectionId": "pg023024_sec001",
+      "sectionTitle": "Hadithi ya Baraka, Furaha na Tumaini",
+      "sourcePages": [
+        24
+      ],
+      "printedPages": "18",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg023024-shughuli-2",
+      "sequence": 20,
+      "href": "pg023024_sec001.html",
+      "sectionId": "pg023024_sec001",
+      "sectionTitle": "Hadithi ya Baraka, Furaha na Tumaini",
+      "sourcePages": [
+        24
+      ],
+      "printedPages": "18",
+      "sourceLabel": "Shughuli ya pili",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg024026-maswali",
+      "sequence": 21,
+      "href": "pg024026_sec002.html",
+      "sectionId": "pg024026_sec002",
+      "sectionTitle": "Mazungumzo ya Kabula na Mzee Masanja",
+      "sourcePages": [
+        26
+      ],
+      "printedPages": "20",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg024026-shughuli-3",
+      "sequence": 22,
+      "href": "pg024026_sec002.html",
+      "sectionId": "pg024026_sec002",
+      "sectionTitle": "Mazungumzo ya Kabula na Mzee Masanja",
+      "sourcePages": [
+        26
+      ],
+      "printedPages": "20",
+      "sourceLabel": "Shughuli ya tatu",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg027-zoezi",
+      "sequence": 23,
+      "href": "pg027_sec001.html",
+      "sectionId": "pg027_sec001",
+      "sectionTitle": "Zoezi",
+      "sourcePages": [
+        27
+      ],
+      "printedPages": "21",
+      "sourceLabel": "Zoezi",
+      "expectedResponses": 4,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg028030-maswali",
+      "sequence": 24,
+      "href": "pg028030_sec001.html",
+      "sectionId": "pg028030_sec001",
+      "sectionTitle": "Kufuma",
+      "sourcePages": [
+        30
+      ],
+      "printedPages": "24",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 4,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg028030-shughuli-1",
+      "sequence": 25,
+      "href": "pg028030_sec001.html",
+      "sectionId": "pg028030_sec001",
+      "sectionTitle": "Kufuma",
+      "sourcePages": [
+        30
+      ],
+      "printedPages": "24",
+      "sourceLabel": "Shughuli ya kwanza",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg030031-maswali",
+      "sequence": 26,
+      "href": "pg030031_sec002.html",
+      "sectionId": "pg030031_sec002",
+      "sectionTitle": "Kushona",
+      "sourcePages": [
+        31
+      ],
+      "printedPages": "25",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg030031-shughuli-2",
+      "sequence": 27,
+      "href": "pg030031_sec002.html",
+      "sectionId": "pg030031_sec002",
+      "sectionTitle": "Kushona",
+      "sourcePages": [
+        31
+      ],
+      "printedPages": "25",
+      "sourceLabel": "Shughuli ya pili",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg031033-maswali",
+      "sequence": 28,
+      "href": "pg031033_sec002.html",
+      "sectionId": "pg031033_sec002",
+      "sectionTitle": "Ufinyanzi",
+      "sourcePages": [
+        33
+      ],
+      "printedPages": "27",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 4,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg031033-shughuli-3",
+      "sequence": 29,
+      "href": "pg031033_sec002.html",
+      "sectionId": "pg031033_sec002",
+      "sectionTitle": "Ufinyanzi",
+      "sourcePages": [
+        33
+      ],
+      "printedPages": "27",
+      "sourceLabel": "Shughuli ya tatu",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg033035-maswali",
+      "sequence": 30,
+      "href": "pg033035_sec002.html",
+      "sectionId": "pg033035_sec002",
+      "sectionTitle": "Kuchonga",
+      "sourcePages": [
+        35
+      ],
+      "printedPages": "29",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 7,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg033035-shughuli-4",
+      "sequence": 31,
+      "href": "pg033035_sec002.html",
+      "sectionId": "pg033035_sec002",
+      "sectionTitle": "Kuchonga",
+      "sourcePages": [
+        35
+      ],
+      "printedPages": "29",
+      "sourceLabel": "Shughuli ya nne",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg035036-maswali",
+      "sequence": 32,
+      "href": "pg035036_sec002.html",
+      "sectionId": "pg035036_sec002",
+      "sectionTitle": "Kutia nakshi",
+      "sourcePages": [
+        36
+      ],
+      "printedPages": "30",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg035036-shughuli-5",
+      "sequence": 33,
+      "href": "pg035036_sec002.html",
+      "sectionId": "pg035036_sec002",
+      "sectionTitle": "Kutia nakshi",
+      "sourcePages": [
+        36
+      ],
+      "printedPages": "30",
+      "sourceLabel": "Shughuli ya tano",
+      "expectedResponses": 3,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg036037-maswali",
+      "sequence": 34,
+      "href": "pg036037_sec002.html",
+      "sectionId": "pg036037_sec002",
+      "sectionTitle": "Kuchora",
+      "sourcePages": [
+        37
+      ],
+      "printedPages": "31",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg036037-shughuli-6",
+      "sequence": 35,
+      "href": "pg036037_sec002.html",
+      "sectionId": "pg036037_sec002",
+      "sectionTitle": "Kuchora",
+      "sourcePages": [
+        37
+      ],
+      "printedPages": "31",
+      "sourceLabel": "Shughuli ya sita",
+      "expectedResponses": 1,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg038-maswali",
+      "sequence": 36,
+      "href": "pg038_sec001.html",
+      "sectionId": "pg038_sec001",
+      "sectionTitle": "Ususi",
+      "sourcePages": [
+        38
+      ],
+      "printedPages": "32",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 2,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg038-shughuli-7",
+      "sequence": 37,
+      "href": "pg038_sec001.html",
+      "sectionId": "pg038_sec001",
+      "sectionTitle": "Ususi",
+      "sourcePages": [
+        38
+      ],
+      "printedPages": "32",
+      "sourceLabel": "Shughuli ya saba",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg039-zoezi-1",
+      "sequence": 38,
+      "href": "pg039_sec001.html",
+      "sectionId": "pg039_sec001",
+      "sectionTitle": "Zoezi la kwanza",
+      "sourcePages": [
+        39
+      ],
+      "printedPages": "33",
+      "sourceLabel": "Zoezi la kwanza",
+      "expectedResponses": 8,
+      "taskType": "mixed",
+      "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg040041-maswali",
+      "sequence": 39,
+      "href": "pg040041_sec001.html",
+      "sectionId": "pg040041_sec001",
+      "sectionTitle": "Ngonjera",
+      "sourcePages": [
+        41
+      ],
+      "printedPages": "35",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg040041-shughuli-8",
+      "sequence": 40,
+      "href": "pg040041_sec001.html",
+      "sectionId": "pg040041_sec001",
+      "sectionTitle": "Ngonjera",
+      "sourcePages": [
+        41
+      ],
+      "printedPages": "35",
+      "sourceLabel": "Shughuli ya nane",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg042043-maswali",
+      "sequence": 41,
+      "href": "pg042043_sec001.html",
+      "sectionId": "pg042043_sec001",
+      "sectionTitle": "Majigambo",
+      "sourcePages": [
+        43
+      ],
+      "printedPages": "37",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 4,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg042043-shughuli-9",
+      "sequence": 42,
+      "href": "pg042043_sec001.html",
+      "sectionId": "pg042043_sec001",
+      "sectionTitle": "Majigambo",
+      "sourcePages": [
+        43
+      ],
+      "printedPages": "37",
+      "sourceLabel": "Shughuli ya tisa",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg043045-maswali",
+      "sequence": 43,
+      "href": "pg043045_sec002.html",
+      "sectionId": "pg043045_sec002",
+      "sectionTitle": "Kichekesho",
+      "sourcePages": [
+        45
+      ],
+      "printedPages": "39",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg043045-shughuli-10",
+      "sequence": 44,
+      "href": "pg043045_sec002.html",
+      "sectionId": "pg043045_sec002",
+      "sectionTitle": "Kichekesho",
+      "sourcePages": [
+        45
+      ],
+      "printedPages": "39",
+      "sourceLabel": "Shughuli ya kumi",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg046-zoezi-2",
+      "sequence": 45,
+      "href": "pg046_sec001.html",
+      "sectionId": "pg046_sec001",
+      "sectionTitle": "Zoezi la pili",
+      "sourcePages": [
+        46
+      ],
+      "printedPages": "40",
+      "sourceLabel": "Zoezi la pili",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg046047-maswali",
+      "sequence": 46,
+      "href": "pg046047_sec002.html",
+      "sectionId": "pg046047_sec002",
+      "sectionTitle": "Kuigiza",
+      "sourcePages": [
+        47
+      ],
+      "printedPages": "41",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg046047-shughuli-11",
+      "sequence": 47,
+      "href": "pg046047_sec002.html",
+      "sectionId": "pg046047_sec002",
+      "sectionTitle": "Kuigiza",
+      "sourcePages": [
+        47
+      ],
+      "printedPages": "41",
+      "sourceLabel": "Shughuli ya kumi na moja",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg048049-maswali",
+      "sequence": 48,
+      "href": "pg048049_sec001.html",
+      "sectionId": "pg048049_sec001",
+      "sectionTitle": "Sarakasi",
+      "sourcePages": [
+        49
+      ],
+      "printedPages": "43",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 2,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg048049-shughuli-12",
+      "sequence": 49,
+      "href": "pg048049_sec001.html",
+      "sectionId": "pg048049_sec001",
+      "sectionTitle": "Sarakasi",
+      "sourcePages": [
+        49
+      ],
+      "printedPages": "43",
+      "sourceLabel": "Shughuli ya kumi na mbili",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg049051-maswali",
+      "sequence": 50,
+      "href": "pg049051_sec002.html",
+      "sectionId": "pg049051_sec002",
+      "sectionTitle": "Ngoma za asili",
+      "sourcePages": [
+        51
+      ],
+      "printedPages": "45",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 9,
+      "taskType": "image-open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg049051-shughuli-13",
+      "sequence": 51,
+      "href": "pg049051_sec002.html",
+      "sectionId": "pg049051_sec002",
+      "sectionTitle": "Ngoma za asili",
+      "sourcePages": [
+        51
+      ],
+      "printedPages": "45",
+      "sourceLabel": "Shughuli ya kumi na tatu",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg051-zoezi-3",
+      "sequence": 52,
+      "href": "pg051_sec002.html",
+      "sectionId": "pg051_sec002",
+      "sectionTitle": "Zoezi la tatu",
+      "sourcePages": [
+        51
+      ],
+      "printedPages": "45",
+      "sourceLabel": "Zoezi la tatu",
+      "expectedResponses": 10,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg052056-maswali",
+      "sequence": 53,
+      "href": "pg052056_sec001.html",
+      "sectionId": "pg052056_sec001",
+      "sectionTitle": "Mchezo wa kukimbia na kijiti",
+      "sourcePages": [
+        56
+      ],
+      "printedPages": "50",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg052056-shughuli-1",
+      "sequence": 54,
+      "href": "pg052056_sec001.html",
+      "sectionId": "pg052056_sec001",
+      "sectionTitle": "Mchezo wa kukimbia na kijiti",
+      "sourcePages": [
+        56
+      ],
+      "printedPages": "50",
+      "sourceLabel": "Shughuli ya kwanza",
+      "expectedResponses": 1,
+      "taskType": "drawing",
+      "expectedResponseType": "teacher-reviewed-completion",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": true,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg057063-maswali",
+      "sequence": 55,
+      "href": "pg057063_sec001.html",
+      "sectionId": "pg057063_sec001",
+      "sectionTitle": "Kulenga shabaha",
+      "sourcePages": [
+        63
+      ],
+      "printedPages": "57",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 3,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg057063-shughuli-2",
+      "sequence": 56,
+      "href": "pg057063_sec001.html",
+      "sectionId": "pg057063_sec001",
+      "sectionTitle": "Kulenga shabaha",
+      "sourcePages": [
+        63
+      ],
+      "printedPages": "57",
+      "sourceLabel": "Shughuli ya pili",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg064067-maswali",
+      "sequence": 57,
+      "href": "pg064067_sec001.html",
+      "sectionId": "pg064067_sec001",
+      "sectionTitle": "Mchezo wa kutafuta mpira",
+      "sourcePages": [
+        67
+      ],
+      "printedPages": "61",
+      "sourceLabel": "Maswali",
+      "expectedResponses": 4,
+      "taskType": "open-text",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg064067-shughuli-3",
+      "sequence": 58,
+      "href": "pg064067_sec001.html",
+      "sectionId": "pg064067_sec001",
+      "sectionTitle": "Mchezo wa kutafuta mpira",
+      "sourcePages": [
+        67
+      ],
+      "printedPages": "61",
+      "sourceLabel": "Shughuli ya tatu",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg068071-shughuli-4",
+      "sequence": 59,
+      "href": "pg068071_sec001.html",
+      "sectionId": "pg068071_sec001",
+      "sectionTitle": "Mchezo wa mkwaju wa penalti",
+      "sourcePages": [
+        71
+      ],
+      "printedPages": "65",
+      "sourceLabel": "Shughuli ya nne",
+      "expectedResponses": 0,
+      "taskType": "practical-no-field",
+      "expectedResponseType": "native-text-or-braille",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": true,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    },
+    {
+      "activityId": "pg071072-zoezi",
+      "sequence": 60,
+      "href": "pg071072_sec002.html",
+      "sectionId": "pg071072_sec002",
+      "sectionTitle": "Zoezi",
+      "sourcePages": [
+        71,
+        72
+      ],
+      "printedPages": "65-66",
+      "sourceLabel": "Zoezi",
+      "expectedResponses": 9,
+      "taskType": "mixed",
+      "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
+      "inputMethods": [
+        "keyboard",
+        "braille-display",
+        "touch",
+        "stylus"
+      ],
+      "nativeBrailleInputAvailable": false,
+      "tactileResourceRequired": false,
+      "tactileResourceDecision": null,
+      "sixKeyPilotCandidate": false,
+      "brailleCode": null,
+      "translationTable": null,
+      "automaticScoring": "disabled-pending-approved-answer-review",
+      "reviewStatus": "awaiting-qualified-tanzanian-braille-educator-review",
+      "educatorReview": {
+        "approvedInclusiveInstruction": null,
+        "approvedBrailleCode": null,
+        "approvedTranslationTable": null,
+        "tactileResourceDecision": null,
+        "reviewer": null,
+        "reviewDate": null,
+        "notes": null
+      }
+    }
+  ]
+}

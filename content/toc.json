@@ -1,0 +1,289 @@
+[
+  {
+    "section_id": "cover_sec001",
+    "href": "index.html",
+    "title": "Jalada la mbele",
+    "chapter_id": "toc_cover_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg001_sec001",
+    "href": "pg001_sec001.html",
+    "title": "Ukurasa wa anwani",
+    "chapter_id": "toc_pg001_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg002_sec001",
+    "href": "pg002_sec001.html",
+    "title": "Taarifa za uchapishaji",
+    "chapter_id": "toc_pg002_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg003_sec001",
+    "href": "pg003_sec001.html",
+    "title": "Yaliyomo",
+    "chapter_id": "toc_pg003_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg004005_sec001",
+    "href": "pg004005_sec001.html",
+    "title": "Shukurani",
+    "chapter_id": "toc_pg004005_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg006_sec001",
+    "href": "pg006_sec001.html",
+    "title": "Utangulizi",
+    "chapter_id": "toc_pg006_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg007009_sec001",
+    "href": "pg007009_sec001.html",
+    "title": "Sura ya Kwanza: Utamaduni wetu — Nyumba za asili",
+    "chapter_id": "toc_pg007009_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg009011_sec002",
+    "href": "pg009011_sec002.html",
+    "title": "Nyumba ya banda",
+    "chapter_id": "toc_pg009011_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg011013_sec002",
+    "href": "pg011013_sec002.html",
+    "title": "Nyumba ya tembe",
+    "chapter_id": "toc_pg011013_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg013014_sec002",
+    "href": "pg013014_sec002.html",
+    "title": "Zoezi la kwanza",
+    "chapter_id": "toc_pg013014_sec002",
+    "level": 3
+  },
+  {
+    "section_id": "pg014016_sec002",
+    "href": "pg014016_sec002.html",
+    "title": "Ufugaji",
+    "chapter_id": "toc_pg014016_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg016018_sec002",
+    "href": "pg016018_sec002.html",
+    "title": "Kilimo",
+    "chapter_id": "toc_pg016018_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg018019_sec002",
+    "href": "pg018019_sec002.html",
+    "title": "Uvuvi",
+    "chapter_id": "toc_pg018019_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg020_sec001",
+    "href": "pg020_sec001.html",
+    "title": "Biashara",
+    "chapter_id": "toc_pg020_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Shughuli ya saba na Zoezi la pili",
+    "chapter_id": "toc_pg021_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Sura ya Pili: Ninaheshimu tofauti za kiimani na maadili",
+    "chapter_id": "toc_pg022_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg023024_sec001",
+    "href": "pg023024_sec001.html",
+    "title": "Hadithi ya Baraka, Furaha na Tumaini",
+    "chapter_id": "toc_pg023024_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg024026_sec002",
+    "href": "pg024026_sec002.html",
+    "title": "Mazungumzo ya Kabula na Mzee Masanja",
+    "chapter_id": "toc_pg024026_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg027_sec001",
+    "href": "pg027_sec001.html",
+    "title": "Zoezi",
+    "chapter_id": "toc_pg027_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg028030_sec001",
+    "href": "pg028030_sec001.html",
+    "title": "Sura ya Tatu: Ninafanya kazi za sanaa — Kufuma",
+    "chapter_id": "toc_pg028030_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg030031_sec002",
+    "href": "pg030031_sec002.html",
+    "title": "Kushona",
+    "chapter_id": "toc_pg030031_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg031033_sec002",
+    "href": "pg031033_sec002.html",
+    "title": "Ufinyanzi",
+    "chapter_id": "toc_pg031033_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg033035_sec002",
+    "href": "pg033035_sec002.html",
+    "title": "Kuchonga",
+    "chapter_id": "toc_pg033035_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg035036_sec002",
+    "href": "pg035036_sec002.html",
+    "title": "Kutia nakshi",
+    "chapter_id": "toc_pg035036_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg036037_sec002",
+    "href": "pg036037_sec002.html",
+    "title": "Kuchora",
+    "chapter_id": "toc_pg036037_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Ususi",
+    "chapter_id": "toc_pg038_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Zoezi la kwanza",
+    "chapter_id": "toc_pg039_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg040041_sec001",
+    "href": "pg040041_sec001.html",
+    "title": "Ngonjera",
+    "chapter_id": "toc_pg040041_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg042043_sec001",
+    "href": "pg042043_sec001.html",
+    "title": "Majigambo",
+    "chapter_id": "toc_pg042043_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg043045_sec002",
+    "href": "pg043045_sec002.html",
+    "title": "Kichekesho",
+    "chapter_id": "toc_pg043045_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec001",
+    "href": "pg046_sec001.html",
+    "title": "Zoezi la pili",
+    "chapter_id": "toc_pg046_sec001",
+    "level": 3
+  },
+  {
+    "section_id": "pg046047_sec002",
+    "href": "pg046047_sec002.html",
+    "title": "Kuigiza",
+    "chapter_id": "toc_pg046047_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg048049_sec001",
+    "href": "pg048049_sec001.html",
+    "title": "Sarakasi",
+    "chapter_id": "toc_pg048049_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg049051_sec002",
+    "href": "pg049051_sec002.html",
+    "title": "Ngoma za asili",
+    "chapter_id": "toc_pg049051_sec002",
+    "level": 2
+  },
+  {
+    "section_id": "pg051_sec002",
+    "href": "pg051_sec002.html",
+    "title": "Zoezi la tatu",
+    "chapter_id": "toc_pg051_sec002",
+    "level": 3
+  },
+  {
+    "section_id": "pg052056_sec001",
+    "href": "pg052056_sec001.html",
+    "title": "Sura ya Nne: Ninacheza michezo sahili",
+    "chapter_id": "toc_pg052056_sec001",
+    "level": 1
+  },
+  {
+    "section_id": "pg057063_sec001",
+    "href": "pg057063_sec001.html",
+    "title": "Kulenga shabaha",
+    "chapter_id": "toc_pg057063_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg064067_sec001",
+    "href": "pg064067_sec001.html",
+    "title": "Mchezo wa kutafuta mpira",
+    "chapter_id": "toc_pg064067_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg068071_sec001",
+    "href": "pg068071_sec001.html",
+    "title": "Mchezo wa mkwaju wa penalti",
+    "chapter_id": "toc_pg068071_sec001",
+    "level": 2
+  },
+  {
+    "section_id": "pg071072_sec002",
+    "href": "pg071072_sec002.html",
+    "title": "Zoezi",
+    "chapter_id": "toc_pg071072_sec002",
+    "level": 3
+  },
+  {
+    "section_id": "back_cover_sec001",
+    "href": "back_cover.html",
+    "title": "Jalada la nyuma",
+    "chapter_id": "toc_back_cover_sec001",
+    "level": 1
+  }
+]
