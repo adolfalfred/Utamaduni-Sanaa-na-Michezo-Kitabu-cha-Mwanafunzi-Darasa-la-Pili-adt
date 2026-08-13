@@ -280,19 +280,21 @@ select:focus-visible {
 }
 
 .intro-list {
+  list-style: none;
   padding-left: 1.8em;
 }
 
 .intro-list li {
-  padding-left: 0.4em;
+  padding-left: 0;
   margin-bottom: 0.45em;
+  text-indent: -1.4em;
 }
 
 .resource-block {
-  display: grid;
-  grid-template-columns: minmax(8rem, 12rem) minmax(0, 1fr);
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: clamp(1rem, 4vw, 2.5rem);
+  gap: 1rem;
   margin-block: 2.25rem;
   padding: clamp(1rem, 3vw, 1.75rem);
   background: #ecfeff;
@@ -302,12 +304,18 @@ select:focus-visible {
 
 .resource-qr {
   display: block;
-  width: 100%;
+  width: min(12rem, 65vw);
   height: auto;
 }
 
 .resource-copy {
   margin: 0 !important;
+  text-align: center;
+}
+
+.publisher-credit {
+  margin-left: auto !important;
+  text-align: right;
 }
 
 .source-page-number {
@@ -1028,15 +1036,6 @@ select:focus-visible {
   .publication-grid dd,
   .credits-grid dd {
     margin-bottom: 1rem;
-  }
-
-  .resource-block {
-    grid-template-columns: 1fr;
-  }
-
-  .resource-qr {
-    width: min(12rem, 65vw);
-    margin-inline: auto;
   }
 
   .toc-entry {
