@@ -523,7 +523,8 @@ select:focus-visible {
   list-style: decimal;
 }
 
-[data-section-id="pg057063_sec001"] .procedure-list {
+[data-section-id="pg057063_sec001"] .procedure-list,
+[data-section-id="pg064067_sec001"] .procedure-list {
   list-style-type: decimal !important;
   list-style-position: outside;
 }
