@@ -1,7 +1,7 @@
 {
   "bookTitle": "Utamaduni, Sanaa na Michezo - Kitabu cha Mwanafunzi, Darasa la Pili",
   "manifestPurpose": "Mapitio ya mwalimu mwenye sifa kuhusu shughuli, majibu ya kibodi au Breli, nyenzo za mguso, na taarifa za vielelezo.",
-  "generatedDate": "2026-08-10",
+  "generatedDate": "2026-08-13",
   "reviewStatus": "native-baseline-implemented-awaiting-qualified-review",
   "brailleCode": null,
   "translationTable": null,
@@ -39,8 +39,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg007009_n0013",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg007009_n0014",
+      "inclusiveInstruction": "1. Kuna tofauti gani kati ya nyumba namba 1 na 2? 2. Bainisha vifaa vinavyotumika katika ujenzi wa nyumba namba 1 na 2. 3. Linganisha nyumba za msonge zilizopo katika picha namba 1 na 2 na nyumba unayoishi.",
+      "instructionIds": [
+        "pg007009_n0014",
+        "pg007009_n0015",
+        "pg007009_n0016"
+      ],
+      "instructions": [
+        "1. Kuna tofauti gani kati ya nyumba namba 1 na 2?",
+        "2. Bainisha vifaa vinavyotumika katika ujenzi wa nyumba namba 1 na 2.",
+        "3. Linganisha nyumba za msonge zilizopo katika picha namba 1 na 2 na nyumba unayoishi."
+      ],
       "answerDependentVisualIds": [
         "pg007009_im001",
         "pg007009_im002",
@@ -92,7 +102,15 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg007009_n0019",
-      "inclusiveInstruction": "Chunguza picha, video, nyumba halisi au mchoro wa mguso wa nyumba ya msonge uliotolewa na mwalimu, kisha chora, taja au eleza nyumba hiyo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Tazama picha au video kuhusu nyumba za msonge katika jamii za Kitanzania. Chora picha ya nyumba ya msonge.",
+      "instructionIds": [
+        "pg007009_n0019",
+        "pg007009_n0020"
+      ],
+      "instructions": [
+        "Tazama picha au video kuhusu nyumba za msonge katika jamii za Kitanzania.",
+        "Chora picha ya nyumba ya msonge."
+      ],
       "answerDependentVisualIds": [
         "pg007009_im001",
         "pg007009_im002",
@@ -143,8 +161,20 @@
       "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg009011_n0006",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg009011_n0007",
+      "inclusiveInstruction": "1. Ni vifaa gani vimetumika kujenga nyumba zilizopo katika picha? 2. Kuna tofauti gani kati ya picha namba 1 na 2? 3. Ni maeneo gani umewahi kuziona nyumba za banda? 4. Ni jamii gani za Kitanzania zinatumia nyumba za banda?",
+      "instructionIds": [
+        "pg009011_n0007",
+        "pg009011_n0008",
+        "pg009011_n0009",
+        "pg009011_n0010"
+      ],
+      "instructions": [
+        "1. Ni vifaa gani vimetumika kujenga nyumba zilizopo katika picha?",
+        "2. Kuna tofauti gani kati ya picha namba 1 na 2?",
+        "3. Ni maeneo gani umewahi kuziona nyumba za banda?",
+        "4. Ni jamii gani za Kitanzania zinatumia nyumba za banda?"
+      ],
       "answerDependentVisualIds": [
         "pg009011_im001",
         "pg009011_im002"
@@ -194,7 +224,15 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg009011_n0013",
-      "inclusiveInstruction": "Chunguza picha, video, nyumba halisi au mchoro wa mguso wa nyumba ya banda uliotolewa na mwalimu, kisha chora, taja au eleza nyumba hiyo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Tazama picha au video zinazoonesha nyumba za banda katika jamii za Kitanzania. Chora picha ya nyumba ya banda.",
+      "instructionIds": [
+        "pg009011_n0013",
+        "pg009011_n0014"
+      ],
+      "instructions": [
+        "Tazama picha au video zinazoonesha nyumba za banda katika jamii za Kitanzania.",
+        "Chora picha ya nyumba ya banda."
+      ],
       "answerDependentVisualIds": [
         "pg009011_im001",
         "pg009011_im002"
@@ -243,8 +281,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg011013_n0006",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg011013_n0007",
+      "inclusiveInstruction": "1. Ni jamii gani huishi katika nyumba zilizopo katika picha? 2. Kuna tofauti gani kati ya picha namba 1 na 2? 3. Ni maeneo gani umewahi kuona nyumba ya tembe?",
+      "instructionIds": [
+        "pg011013_n0007",
+        "pg011013_n0008",
+        "pg011013_n0009"
+      ],
+      "instructions": [
+        "1. Ni jamii gani huishi katika nyumba zilizopo katika picha?",
+        "2. Kuna tofauti gani kati ya picha namba 1 na 2?",
+        "3. Ni maeneo gani umewahi kuona nyumba ya tembe?"
+      ],
       "answerDependentVisualIds": [
         "pg011013_im001",
         "pg011013_im002"
@@ -294,7 +342,15 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg011013_n0012",
-      "inclusiveInstruction": "Chunguza picha, video, nyumba halisi au mchoro wa mguso wa nyumba ya tembe uliotolewa na mwalimu, kisha chora, taja au eleza nyumba hiyo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Tazama picha au video zinazoonesha nyumba za tembe katika jamii za Kitanzania. Chora picha ya nyumba ya tembe.",
+      "instructionIds": [
+        "pg011013_n0012",
+        "pg011013_n0013"
+      ],
+      "instructions": [
+        "Tazama picha au video zinazoonesha nyumba za tembe katika jamii za Kitanzania.",
+        "Chora picha ya nyumba ya tembe."
+      ],
       "answerDependentVisualIds": [
         "pg011013_im001",
         "pg011013_im002"
@@ -344,8 +400,20 @@
       "nativeControlCount": 9,
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
-      "inclusiveInstructionId": "pg013014_n0003",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg013014_n0004",
+      "inclusiveInstruction": "1. Bainisha majina ya nyumba za asili zilizopo katika jamii yako. 2. Taja matumizi ya vifaa vifuatavyo katika ujenzi wa nyumba za asili. 3. Eleza tofauti zilizopo kati ya nyumba ya banda, msonge na tembe. 4. Oanisha nyumba iliyoko kundi A na jamii za asili zinazotumia nyumba hizo katika kundi B.",
+      "instructionIds": [
+        "pg013014_n0004",
+        "pg013014_n0005",
+        "pg013014_n0021",
+        "pg013014_n0010"
+      ],
+      "instructions": [
+        "1. Bainisha majina ya nyumba za asili zilizopo katika jamii yako.",
+        "2. Taja matumizi ya vifaa vifuatavyo katika ujenzi wa nyumba za asili.",
+        "3. Eleza tofauti zilizopo kati ya nyumba ya banda, msonge na tembe.",
+        "4. Oanisha nyumba iliyoko kundi A na jamii za asili zinazotumia nyumba hizo katika kundi B."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -388,8 +456,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg014016_n0009",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg014016_n0010",
+      "inclusiveInstruction": "1. Ni wanyama na ndege gani waliopo katika picha namba 1 na 2 wanafugwa na jamii yako? 2. Taja wanyama na ndege wengine wafugwao katika eneo unaloishi, ambao hawapo katika picha namba 1 na 2. 3. Ungependa kufuga wanyama au ndege wa aina gani? Kwa nini?",
+      "instructionIds": [
+        "pg014016_n0010",
+        "pg014016_n0011",
+        "pg014016_n0012"
+      ],
+      "instructions": [
+        "1. Ni wanyama na ndege gani waliopo katika picha namba 1 na 2 wanafugwa na jamii yako?",
+        "2. Taja wanyama na ndege wengine wafugwao katika eneo unaloishi, ambao hawapo katika picha namba 1 na 2.",
+        "3. Ungependa kufuga wanyama au ndege wa aina gani? Kwa nini?"
+      ],
       "answerDependentVisualIds": [
         "pg014016_im001",
         "pg014016_im002",
@@ -441,7 +519,15 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg014016_n0015",
-      "inclusiveInstruction": "Chunguza jamii nyingine zinazojishughulisha na ufugaji zilizopo katika eneo unaloishi.",
+      "inclusiveInstruction": "Chunguza jamii nyingine zinazojishughulisha na ufugaji zilizopo katika eneo unaloishi. Orodhesha jamii ulizozibaini.",
+      "instructionIds": [
+        "pg014016_n0015",
+        "pg014016_n0016"
+      ],
+      "instructions": [
+        "Chunguza jamii nyingine zinazojishughulisha na ufugaji zilizopo katika eneo unaloishi.",
+        "Orodhesha jamii ulizozibaini."
+      ],
       "answerDependentVisualIds": [
         "pg014016_im001",
         "pg014016_im002",
@@ -493,8 +579,20 @@
       "nativeControlCount": 7,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg016018_n0008",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg016018_n0009",
+      "inclusiveInstruction": "1. Taja mazao unayoyaona kwenye picha namba 1, 2, 3 na 4. 2. Eleza matumizi ya mazao yaliyopo katika jedwali. 3. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa zaidi kwa chakula kwenye familia yako? 4. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa kwa biashara?",
+      "instructionIds": [
+        "pg016018_n0009",
+        "pg016018_n0010",
+        "pg016018_n0017",
+        "pg016018_n0018"
+      ],
+      "instructions": [
+        "1. Taja mazao unayoyaona kwenye picha namba 1, 2, 3 na 4.",
+        "2. Eleza matumizi ya mazao yaliyopo katika jedwali.",
+        "3. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa zaidi kwa chakula kwenye familia yako?",
+        "4. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa kwa biashara?"
+      ],
       "answerDependentVisualIds": [
         "pg016018_im001",
         "pg016018_im002",
@@ -548,7 +646,15 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg016018_n0021",
-      "inclusiveInstruction": "Uliza watu wanaokuzunguka kuhusu mazao yanayolimwa katika jamii yako.",
+      "inclusiveInstruction": "Uliza watu wanaokuzunguka kuhusu mazao yanayolimwa katika jamii yako. Andika mazao hayo na matumizi yake.",
+      "instructionIds": [
+        "pg016018_n0021",
+        "pg016018_n0022"
+      ],
+      "instructions": [
+        "Uliza watu wanaokuzunguka kuhusu mazao yanayolimwa katika jamii yako.",
+        "Andika mazao hayo na matumizi yake."
+      ],
       "answerDependentVisualIds": [
         "pg016018_im001",
         "pg016018_im002",
@@ -601,8 +707,16 @@
       "nativeControlCount": 2,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg018019_n0005",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg018019_n0006",
+      "inclusiveInstruction": "1. Ni maeneo gani ambayo shughuli za uvuvi hufanyika? 2. Taja vifaa vinavyotumika kuvulia samaki.",
+      "instructionIds": [
+        "pg018019_n0006",
+        "pg018019_n0007"
+      ],
+      "instructions": [
+        "1. Ni maeneo gani ambayo shughuli za uvuvi hufanyika?",
+        "2. Taja vifaa vinavyotumika kuvulia samaki."
+      ],
       "answerDependentVisualIds": [
         "pg018019_im001"
       ],
@@ -650,7 +764,15 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg018019_n0010",
-      "inclusiveInstruction": "Chunguza picha au video za shughuli za uvuvi na ushike kifaa halisi au mchoro wa mguso uliotolewa na mwalimu, kisha chora, taja au eleza kifaa cha uvuvi kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Tazama picha au video zinazoonesha shughuli za uvuvi zinavyofanyika. Chora kifaa kinachotumika katika uvuvi.",
+      "instructionIds": [
+        "pg018019_n0010",
+        "pg018019_n0011"
+      ],
+      "instructions": [
+        "Tazama picha au video zinazoonesha shughuli za uvuvi zinavyofanyika.",
+        "Chora kifaa kinachotumika katika uvuvi."
+      ],
       "answerDependentVisualIds": [
         "pg018019_im001"
       ],
@@ -697,8 +819,16 @@
       "nativeControlCount": 2,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg020_n0005",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg020_n0006",
+      "inclusiveInstruction": "1. Ni bidhaa gani zinazoonekana katika picha? 2. Je, ungependa kufanya biashara gani? Kwa nini?",
+      "instructionIds": [
+        "pg020_n0006",
+        "pg020_n0007"
+      ],
+      "instructions": [
+        "1. Ni bidhaa gani zinazoonekana katika picha?",
+        "2. Je, ungependa kufanya biashara gani? Kwa nini?"
+      ],
       "answerDependentVisualIds": [
         "pg020_im001"
       ],
@@ -746,7 +876,15 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg021_n0003",
-      "inclusiveInstruction": "Tembelea eneo la biashara, chunguza bidhaa halisi kwa kuona au kugusa kwa ruhusa, kisha andika, chora, taja au eleza bidhaa ulizoona kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Tembelea eneo ambalo shughuli za kibiashara zinafanyika, kisha andika bidhaa tano zinazouzwa na kununuliwa. Chora bidhaa mbili kati ya ulizoziona katika eneo ulilotembelea.",
+      "instructionIds": [
+        "pg021_n0003",
+        "pg021_n0009"
+      ],
+      "instructions": [
+        "Tembelea eneo ambalo shughuli za kibiashara zinafanyika, kisha andika bidhaa tano zinazouzwa na kununuliwa.",
+        "Chora bidhaa mbili kati ya ulizoziona katika eneo ulilotembelea."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -789,8 +927,24 @@
       "nativeControlCount": 9,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg021_n0015",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg021_n0016",
+      "inclusiveInstruction": "1. Bainisha faida za kilimo katika familia na jamii inayokuzunguka. 2. Taja faida za uvuvi katika jamii. 3. Kuna umuhimu gani wa kujifunza biashara? 4. Ni aina gani ya biashara inayofanywa na watu wa jamii yako? 5. Taja faida za wanyama na ndege wafugwao. 6. Soma vitu vilivyoorodheshwa katika jedwali hapo chini kisha taja shughuli zinazohusika: kilimo, uvuvi, ufugaji au biashara.",
+      "instructionIds": [
+        "pg021_n0016",
+        "pg021_n0017",
+        "pg021_n0018",
+        "pg021_n0019",
+        "pg021_n0020",
+        "pg021_n0021"
+      ],
+      "instructions": [
+        "1. Bainisha faida za kilimo katika familia na jamii inayokuzunguka.",
+        "2. Taja faida za uvuvi katika jamii.",
+        "3. Kuna umuhimu gani wa kujifunza biashara?",
+        "4. Ni aina gani ya biashara inayofanywa na watu wa jamii yako?",
+        "5. Taja faida za wanyama na ndege wafugwao.",
+        "6. Soma vitu vilivyoorodheshwa katika jedwali hapo chini kisha taja shughuli zinazohusika: kilimo, uvuvi, ufugaji au biashara."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -833,8 +987,16 @@
       "nativeControlCount": 2,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg022_n0007",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg022_n0008",
+      "inclusiveInstruction": "1. Ni matendo gani ya tabia njema uliyoyasoma katika habari hii? 2. Kwa nini watu wanashiriki ibada?",
+      "instructionIds": [
+        "pg022_n0008",
+        "pg022_n0009"
+      ],
+      "instructions": [
+        "1. Ni matendo gani ya tabia njema uliyoyasoma katika habari hii?",
+        "2. Kwa nini watu wanashiriki ibada?"
+      ],
       "answerDependentVisualIds": [
         "pg022_im001"
       ],
@@ -881,8 +1043,14 @@
       "nativeControlCount": 1,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg023024_n0003",
-      "inclusiveInstruction": "Jibu shughuli hii kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg023024_n0004",
+      "inclusiveInstruction": "Andika mambo unayojifunza unapokwenda kwenye ibada.",
+      "instructionIds": [
+        "pg023024_n0004"
+      ],
+      "instructions": [
+        "Andika mambo unayojifunza unapokwenda kwenye ibada."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -925,8 +1093,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg023024_n0012",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg023024_n0013",
+      "inclusiveInstruction": "1. Umejifunza nini kutokana na hadithi hii? 2. Ni mwanafunzi yupi alikuwa hapendi kushiriki katika kipindi cha dini? 3. Taja mambo matatu yanayofundishwa katika kipindi cha dini.",
+      "instructionIds": [
+        "pg023024_n0013",
+        "pg023024_n0014",
+        "pg023024_n0015"
+      ],
+      "instructions": [
+        "1. Umejifunza nini kutokana na hadithi hii?",
+        "2. Ni mwanafunzi yupi alikuwa hapendi kushiriki katika kipindi cha dini?",
+        "3. Taja mambo matatu yanayofundishwa katika kipindi cha dini."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -968,6 +1146,12 @@
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg023024_n0018",
       "inclusiveInstruction": "Kwa ufupi simulia hadithi uliyosoma mbele ya wanafunzi wengine.",
+      "instructionIds": [
+        "pg023024_n0018"
+      ],
+      "instructions": [
+        "Kwa ufupi simulia hadithi uliyosoma mbele ya wanafunzi wengine."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -1010,8 +1194,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg024026_n0033",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg024026_n0034",
+      "inclusiveInstruction": "1. Umejifunza nini katika mazungumzo hayo? 2. Sauti inayosikika kutoka Msikitini huitwa nini? 3. Kifaa kinachotumika kuwaita Wakristo waende kusali Kanisani kinaitwa nini?",
+      "instructionIds": [
+        "pg024026_n0034",
+        "pg024026_n0035",
+        "pg024026_n0036"
+      ],
+      "instructions": [
+        "1. Umejifunza nini katika mazungumzo hayo?",
+        "2. Sauti inayosikika kutoka Msikitini huitwa nini?",
+        "3. Kifaa kinachotumika kuwaita Wakristo waende kusali Kanisani kinaitwa nini?"
+      ],
       "answerDependentVisualIds": [
         "pg024026_im001"
       ],
@@ -1057,6 +1251,12 @@
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg024026_n0039",
       "inclusiveInstruction": "Uliza kwa wazazi au walezi kuhusu sherehe za kidini zinazosherehekewa kila mwaka katika jamii yako.",
+      "instructionIds": [
+        "pg024026_n0039"
+      ],
+      "instructions": [
+        "Uliza kwa wazazi au walezi kuhusu sherehe za kidini zinazosherehekewa kila mwaka katika jamii yako."
+      ],
       "answerDependentVisualIds": [
         "pg024026_im001"
       ],
@@ -1103,8 +1303,20 @@
       "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg027_n0003",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg027_n0004",
+      "inclusiveInstruction": "1. Taja faida za kufanya ibada. 2. Watu wa jamii yako hushiriki ibada sehemu gani? 3. Taja baadhi ya sikukuu za kidini unazosherehekea katika jamii yako. 4. Ni matendo gani unayoweza kuyafanya ili kuonesha hali ya kuwajali watu wa imani nyingine?",
+      "instructionIds": [
+        "pg027_n0004",
+        "pg027_n0005",
+        "pg027_n0006",
+        "pg027_n0007"
+      ],
+      "instructions": [
+        "1. Taja faida za kufanya ibada.",
+        "2. Watu wa jamii yako hushiriki ibada sehemu gani?",
+        "3. Taja baadhi ya sikukuu za kidini unazosherehekea katika jamii yako.",
+        "4. Ni matendo gani unayoweza kuyafanya ili kuonesha hali ya kuwajali watu wa imani nyingine?"
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -1147,8 +1359,20 @@
       "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg028030_n0012",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg028030_n0013",
+      "inclusiveInstruction": "1. Ni aina gani ya kazi inayofanywa katika picha hizi? 2. Vifaa gani vimetumika katika picha? 3. Taja vitu vinavyotengenezwa kutokana na kazi hiyo. 4. Je, umewahi kufanya kazi hiyo? Kama ndiyo, ulipata changamoto gani?",
+      "instructionIds": [
+        "pg028030_n0013",
+        "pg028030_n0014",
+        "pg028030_n0015",
+        "pg028030_n0016"
+      ],
+      "instructions": [
+        "1. Ni aina gani ya kazi inayofanywa katika picha hizi?",
+        "2. Vifaa gani vimetumika katika picha?",
+        "3. Taja vitu vinavyotengenezwa kutokana na kazi hiyo.",
+        "4. Je, umewahi kufanya kazi hiyo? Kama ndiyo, ulipata changamoto gani?"
+      ],
       "answerDependentVisualIds": [
         "pg028030_im001",
         "pg028030_im002",
@@ -1198,6 +1422,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg028030_n0019",
       "inclusiveInstruction": "Fuma kitu chochote kwa kutumia uzi na sindano au kijiti.",
+      "instructionIds": [
+        "pg028030_n0019"
+      ],
+      "instructions": [
+        "Fuma kitu chochote kwa kutumia uzi na sindano au kijiti."
+      ],
       "answerDependentVisualIds": [
         "pg028030_im001",
         "pg028030_im002",
@@ -1248,8 +1478,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg030031_n0007",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg030031_n0008",
+      "inclusiveInstruction": "1. Ni kazi gani inayofanyika katika picha namba 1 na 2? 2. Vifaa gani hutumika kufanya kazi hii? 3. Je, umewahi kufanya kazi hiyo? Kama ndiyo, ulipata changamoto gani?",
+      "instructionIds": [
+        "pg030031_n0008",
+        "pg030031_n0009",
+        "pg030031_n0010"
+      ],
+      "instructions": [
+        "1. Ni kazi gani inayofanyika katika picha namba 1 na 2?",
+        "2. Vifaa gani hutumika kufanya kazi hii?",
+        "3. Je, umewahi kufanya kazi hiyo? Kama ndiyo, ulipata changamoto gani?"
+      ],
       "answerDependentVisualIds": [
         "pg030031_im001",
         "pg030031_im002"
@@ -1297,6 +1537,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg030031_n0013",
       "inclusiveInstruction": "Tumia uzi na sindano kuunganisha vitambaa ili kupata mfuko wa kubebea daftari.",
+      "instructionIds": [
+        "pg030031_n0013"
+      ],
+      "instructions": [
+        "Tumia uzi na sindano kuunganisha vitambaa ili kupata mfuko wa kubebea daftari."
+      ],
       "answerDependentVisualIds": [
         "pg030031_im001",
         "pg030031_im002"
@@ -1345,8 +1591,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg031033_n0007",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg031033_n0008",
+      "inclusiveInstruction": "1. Kazi gani inafanyika katika picha namba 1 na 2? 2. Vitu vinavyohitajika katika kufanya kazi hiyo ya sanaa ni ________ na ________. 3. Ni vitu gani vingine vinaweza kutengenezwa kwa kutumia udongo?",
+      "instructionIds": [
+        "pg031033_n0008",
+        "pg031033_n0009",
+        "pg031033_n0011"
+      ],
+      "instructions": [
+        "1. Kazi gani inafanyika katika picha namba 1 na 2?",
+        "2. Vitu vinavyohitajika katika kufanya kazi hiyo ya sanaa ni ________ na ________.",
+        "3. Ni vitu gani vingine vinaweza kutengenezwa kwa kutumia udongo?"
+      ],
       "answerDependentVisualIds": [
         "pg031033_im001",
         "pg031033_im002"
@@ -1394,6 +1650,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg031033_n0014",
       "inclusiveInstruction": "Tumia udongo kufinyanga kitu unachokipenda.",
+      "instructionIds": [
+        "pg031033_n0014"
+      ],
+      "instructions": [
+        "Tumia udongo kufinyanga kitu unachokipenda."
+      ],
       "answerDependentVisualIds": [
         "pg031033_im001",
         "pg031033_im002"
@@ -1442,8 +1704,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg033035_n0008",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg033035_n0009",
+      "inclusiveInstruction": "1. Chunguza picha namba 1 na 2. Andika vitu vitano unavyovifahamu. 2. Ni vifaa gani hutumika kufanya kazi hii? 3. Ni vitu gani vingine hutengenezwa kwa kutumia ubunifu huu?",
+      "instructionIds": [
+        "pg033035_n0009",
+        "pg033035_n0014",
+        "pg033035_n0015"
+      ],
+      "instructions": [
+        "1. Chunguza picha namba 1 na 2. Andika vitu vitano unavyovifahamu.",
+        "2. Ni vifaa gani hutumika kufanya kazi hii?",
+        "3. Ni vitu gani vingine hutengenezwa kwa kutumia ubunifu huu?"
+      ],
       "answerDependentVisualIds": [
         "pg033035_im001",
         "pg033035_im002",
@@ -1493,6 +1765,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg033035_n0018",
       "inclusiveInstruction": "Chonga kitu kimoja unachokipenda kwa kutumia kipande cha mti kutoka kwenye mazingira yako.",
+      "instructionIds": [
+        "pg033035_n0018"
+      ],
+      "instructions": [
+        "Chonga kitu kimoja unachokipenda kwa kutumia kipande cha mti kutoka kwenye mazingira yako."
+      ],
       "answerDependentVisualIds": [
         "pg033035_im001",
         "pg033035_im002",
@@ -1543,8 +1821,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg035036_n0009",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg035036_n0010",
+      "inclusiveInstruction": "1. Je, ni rangi gani ungependa kuitumia katika kutia nakshi umbo la ukumbi D? 2. Umbo la ukumbi B linafanana na nini? 3. Taja rangi zilizotumika kunakshi umbo la ukumbi C.",
+      "instructionIds": [
+        "pg035036_n0010",
+        "pg035036_n0011",
+        "pg035036_n0012"
+      ],
+      "instructions": [
+        "1. Je, ni rangi gani ungependa kuitumia katika kutia nakshi umbo la ukumbi D?",
+        "2. Umbo la ukumbi B linafanana na nini?",
+        "3. Taja rangi zilizotumika kunakshi umbo la ukumbi C."
+      ],
       "answerDependentVisualIds": [
         "pg035036_im001",
         "pg035036_im002",
@@ -1598,7 +1886,13 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg035036_n0015",
-      "inclusiveInstruction": "Chunguza maumbo halisi au ya mguso yaliyotolewa na mwalimu, kisha chora, taja au eleza maumbo matatu ya ukumbi na nakshi zake kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Chora maumbo matatu ya ukumbi uyapendayo, kisha tia nakshi.",
+      "instructionIds": [
+        "pg035036_n0015"
+      ],
+      "instructions": [
+        "Chora maumbo matatu ya ukumbi uyapendayo, kisha tia nakshi."
+      ],
       "answerDependentVisualIds": [
         "pg035036_im001",
         "pg035036_im002",
@@ -1651,8 +1945,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg036037_n0006",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg036037_n0007",
+      "inclusiveInstruction": "1. Katika picha hii, mwanafunzi anafanya nini? 2. Taja vifaa anavyotumia kufanya kazi hiyo. 3. Kwa nini ni muhimu kujifunza kuchora na kupaka rangi?",
+      "instructionIds": [
+        "pg036037_n0007",
+        "pg036037_n0008",
+        "pg036037_n0009"
+      ],
+      "instructions": [
+        "1. Katika picha hii, mwanafunzi anafanya nini?",
+        "2. Taja vifaa anavyotumia kufanya kazi hiyo.",
+        "3. Kwa nini ni muhimu kujifunza kuchora na kupaka rangi?"
+      ],
       "answerDependentVisualIds": [
         "pg036037_im001"
       ],
@@ -1700,7 +2004,13 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg036037_n0012",
-      "inclusiveInstruction": "Chunguza meza halisi au mchoro wake wa mguso uliotolewa na mwalimu, kisha chora, taja au eleza meza na nakshi uipendayo kwa kutumia mchoro, maandishi, kibodi au Breli.",
+      "inclusiveInstruction": "Chora picha ya meza, kisha tia nakshi uipendayo.",
+      "instructionIds": [
+        "pg036037_n0012"
+      ],
+      "instructions": [
+        "Chora picha ya meza, kisha tia nakshi uipendayo."
+      ],
       "answerDependentVisualIds": [
         "pg036037_im001"
       ],
@@ -1747,8 +2057,16 @@
       "nativeControlCount": 2,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg038_n0006",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg038_n0007",
+      "inclusiveInstruction": "1. Katika picha hii ni kitu gani kimetengenezwa? 2. Taja vifaa vinavyotumika katika kutengeneza kitu hicho.",
+      "instructionIds": [
+        "pg038_n0007",
+        "pg038_n0008"
+      ],
+      "instructions": [
+        "1. Katika picha hii ni kitu gani kimetengenezwa?",
+        "2. Taja vifaa vinavyotumika katika kutengeneza kitu hicho."
+      ],
       "answerDependentVisualIds": [
         "pg038_im001"
       ],
@@ -1794,6 +2112,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg038_n0011",
       "inclusiveInstruction": "Suka kamba kwa kutumia vifaa vinavyopatikana katika mazingira yako.",
+      "instructionIds": [
+        "pg038_n0011"
+      ],
+      "instructions": [
+        "Suka kamba kwa kutumia vifaa vinavyopatikana katika mazingira yako."
+      ],
       "answerDependentVisualIds": [
         "pg038_im001"
       ],
@@ -1840,8 +2164,20 @@
       "nativeControlCount": 8,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg039_n0003",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg039_n0004",
+      "inclusiveInstruction": "1. Taja sababu za kutia nakshi kwenye vitu. 2. Bainisha vitu unavyoweza kutumia kunakshi. 3. Taja kazi za sanaa za mikono zinazofanyika katika jamii yako. 4. Oanisha kifungu A na kifungu B ili kupata maana kamili.",
+      "instructionIds": [
+        "pg039_n0004",
+        "pg039_n0005",
+        "pg039_n0006",
+        "pg039_n0007"
+      ],
+      "instructions": [
+        "1. Taja sababu za kutia nakshi kwenye vitu.",
+        "2. Bainisha vitu unavyoweza kutumia kunakshi.",
+        "3. Taja kazi za sanaa za mikono zinazofanyika katika jamii yako.",
+        "4. Oanisha kifungu A na kifungu B ili kupata maana kamili."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -1884,8 +2220,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg040041_n0040",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg040041_n0041",
+      "inclusiveInstruction": "1. Umejifunza nini kutokana na ngonjera hii? 2. Ni mambo gani yametajwa katika ngonjera hii? 3. Umefurahia nini wakati wa kutamba ngonjera?",
+      "instructionIds": [
+        "pg040041_n0041",
+        "pg040041_n0042",
+        "pg040041_n0043"
+      ],
+      "instructions": [
+        "1. Umejifunza nini kutokana na ngonjera hii?",
+        "2. Ni mambo gani yametajwa katika ngonjera hii?",
+        "3. Umefurahia nini wakati wa kutamba ngonjera?"
+      ],
       "answerDependentVisualIds": [
         "pg040041_im001"
       ],
@@ -1931,6 +2277,12 @@
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg040041_n0046",
       "inclusiveInstruction": "Tamba ngonjera uliyoisoma.",
+      "instructionIds": [
+        "pg040041_n0046"
+      ],
+      "instructions": [
+        "Tamba ngonjera uliyoisoma."
+      ],
       "answerDependentVisualIds": [
         "pg040041_im001"
       ],
@@ -1977,8 +2329,20 @@
       "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg042043_n0008",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg042043_n0009",
+      "inclusiveInstruction": "1. Ni mnyama gani mwingine hutupatia maziwa? 2. Urefu wa twiga una faida gani kwake? 3. Je, kuna mnyama gani mwingine unayemfahamu mwenye rangi za kuvutia? 4. Ni mambo gani ya kuzingatia wakati wa kujigamba?",
+      "instructionIds": [
+        "pg042043_n0009",
+        "pg042043_n0010",
+        "pg042043_n0011",
+        "pg042043_n0012"
+      ],
+      "instructions": [
+        "1. Ni mnyama gani mwingine hutupatia maziwa?",
+        "2. Urefu wa twiga una faida gani kwake?",
+        "3. Je, kuna mnyama gani mwingine unayemfahamu mwenye rangi za kuvutia?",
+        "4. Ni mambo gani ya kuzingatia wakati wa kujigamba?"
+      ],
       "answerDependentVisualIds": [
         "pg042043_im001",
         "pg042043_im002",
@@ -2028,6 +2392,12 @@
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg042043_n0015",
       "inclusiveInstruction": "Igiza sauti za wanyama mbalimbali. Chagua mnyama unayempenda, kisha ujigambe kwa kuiga sauti yake na namna anavyotembea.",
+      "instructionIds": [
+        "pg042043_n0015"
+      ],
+      "instructions": [
+        "Igiza sauti za wanyama mbalimbali. Chagua mnyama unayempenda, kisha ujigambe kwa kuiga sauti yake na namna anavyotembea."
+      ],
       "answerDependentVisualIds": [
         "pg042043_im001",
         "pg042043_im002",
@@ -2078,8 +2448,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg043045_n0013",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg043045_n0014",
+      "inclusiveInstruction": "1. Umejifunza nini kutokana na vichekesho hivyo? 2. Ungekuwa wewe ni Kibo ungemshauri Mawenzi afanye nini? 3. Ni kifaa gani Sungura alikitumia kujitazama na kumwona sungura mwingine?",
+      "instructionIds": [
+        "pg043045_n0014",
+        "pg043045_n0015",
+        "pg043045_n0016"
+      ],
+      "instructions": [
+        "1. Umejifunza nini kutokana na vichekesho hivyo?",
+        "2. Ungekuwa wewe ni Kibo ungemshauri Mawenzi afanye nini?",
+        "3. Ni kifaa gani Sungura alikitumia kujitazama na kumwona sungura mwingine?"
+      ],
       "answerDependentVisualIds": [
         "pg043045_im001",
         "pg043045_im002"
@@ -2126,7 +2506,15 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg043045_n0019",
-      "inclusiveInstruction": "1. Chukua kioo na ujiangalie huku ukibadili mwonekano wa uso wako. Je, unaona nini katika kioo? 2. Andaa kichekesho. Chekesha mbele ya wenzako darasani.",
+      "inclusiveInstruction": "Chukua kioo na ujiangalie huku ukibadili mwonekano wa uso wako. Je, unaona nini katika kioo? Andaa kichekesho. Chekesha mbele ya wenzako darasani.",
+      "instructionIds": [
+        "pg043045_n0019",
+        "pg043045_n0021"
+      ],
+      "instructions": [
+        "Chukua kioo na ujiangalie huku ukibadili mwonekano wa uso wako. Je, unaona nini katika kioo?",
+        "Andaa kichekesho. Chekesha mbele ya wenzako darasani."
+      ],
       "answerDependentVisualIds": [
         "pg043045_im001",
         "pg043045_im002"
@@ -2175,8 +2563,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg046_n0003",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg046_n0004",
+      "inclusiveInstruction": "1. Taja kazi za sanaa zinazohusisha sauti. 2. Eleza matumizi ya kazi za sanaa zinazohusisha ubunifu wa sauti. 3. Andika majigambo mafupi kuhusu sungura.",
+      "instructionIds": [
+        "pg046_n0004",
+        "pg046_n0005",
+        "pg046_n0006"
+      ],
+      "instructions": [
+        "1. Taja kazi za sanaa zinazohusisha sauti.",
+        "2. Eleza matumizi ya kazi za sanaa zinazohusisha ubunifu wa sauti.",
+        "3. Andika majigambo mafupi kuhusu sungura."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -2219,8 +2617,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg046047_n0009",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg046047_n0010",
+      "inclusiveInstruction": "1. Ni tendo gani linalofanyika katika picha namba 1 na 2? 2. Kinyago alichovaa mwanafunzi katika picha namba 2 kinaonesha taswira ya kitu gani? 3. Je, umewahi kuigiza? Kama ndiyo, uliigiza kuhusu nini?",
+      "instructionIds": [
+        "pg046047_n0010",
+        "pg046047_n0011",
+        "pg046047_n0012"
+      ],
+      "instructions": [
+        "1. Ni tendo gani linalofanyika katika picha namba 1 na 2?",
+        "2. Kinyago alichovaa mwanafunzi katika picha namba 2 kinaonesha taswira ya kitu gani?",
+        "3. Je, umewahi kuigiza? Kama ndiyo, uliigiza kuhusu nini?"
+      ],
       "answerDependentVisualIds": [
         "pg046047_im001",
         "pg046047_im002",
@@ -2272,6 +2680,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg046047_n0015",
       "inclusiveInstruction": "Fanya mazoezi ya kuigiza kama mwanafunzi aliyeko katika picha namba 1. Tengeneza kinyago cha sura ya mnyama au ndege, kisha kitumie kuigiza tabia zake.",
+      "instructionIds": [
+        "pg046047_n0015"
+      ],
+      "instructions": [
+        "Fanya mazoezi ya kuigiza kama mwanafunzi aliyeko katika picha namba 1. Tengeneza kinyago cha sura ya mnyama au ndege, kisha kitumie kuigiza tabia zake."
+      ],
       "answerDependentVisualIds": [
         "pg046047_im001",
         "pg046047_im002",
@@ -2324,8 +2738,16 @@
       "nativeControlCount": 2,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg048049_n0011",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg048049_n0012",
+      "inclusiveInstruction": "1. Je, ni mchezo gani wa sanaa ya utendaji wa mwili unaofanywa katika picha? 2. Taja faida zinazotokana na sanaa ya aina hii.",
+      "instructionIds": [
+        "pg048049_n0012",
+        "pg048049_n0013"
+      ],
+      "instructions": [
+        "1. Je, ni mchezo gani wa sanaa ya utendaji wa mwili unaofanywa katika picha?",
+        "2. Taja faida zinazotokana na sanaa ya aina hii."
+      ],
       "answerDependentVisualIds": [
         "pg048049_im001",
         "pg048049_im002",
@@ -2381,6 +2803,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg048049_n0016",
       "inclusiveInstruction": "Cheza mchezo wa sarakasi.",
+      "instructionIds": [
+        "pg048049_n0016"
+      ],
+      "instructions": [
+        "Cheza mchezo wa sarakasi."
+      ],
       "answerDependentVisualIds": [
         "pg048049_im001",
         "pg048049_im002",
@@ -2437,8 +2865,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg049051_n0008",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg049051_n0009",
+      "inclusiveInstruction": "1. Ni ngoma gani ya asili inayochezwa katika picha namba 1, 2 na 3? 2. Ni ala gani za muziki zimetumika katika ngoma namba 1, 2 na 3? 3. Eleza aina ya maleba yaliyotumika katika ngoma namba 1, 2 na 3.",
+      "instructionIds": [
+        "pg049051_n0009",
+        "pg049051_n0012",
+        "pg049051_n0015"
+      ],
+      "instructions": [
+        "1. Ni ngoma gani ya asili inayochezwa katika picha namba 1, 2 na 3?",
+        "2. Ni ala gani za muziki zimetumika katika ngoma namba 1, 2 na 3?",
+        "3. Eleza aina ya maleba yaliyotumika katika ngoma namba 1, 2 na 3."
+      ],
       "answerDependentVisualIds": [
         "pg049051_im001",
         "pg049051_im002",
@@ -2488,6 +2926,12 @@
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg049051_n0020",
       "inclusiveInstruction": "Cheza na wenzako ngoma zinazochezwa katika jamii unayoishi.",
+      "instructionIds": [
+        "pg049051_n0020"
+      ],
+      "instructions": [
+        "Cheza na wenzako ngoma zinazochezwa katika jamii unayoishi."
+      ],
       "answerDependentVisualIds": [
         "pg049051_im001",
         "pg049051_im002",
@@ -2538,8 +2982,24 @@
       "nativeControlCount": 6,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg051_n0003",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg051_n0004",
+      "inclusiveInstruction": "1. Bainisha sanaa zinazohusisha utendaji wa mwili. 2. Ni sanaa gani ya utendaji wa mwili uliyowahi kushiriki? 3. Ufuatishaji wa matendo ya watu au wanyama unaitwa ________. 4. Taja ala tatu za muziki zinazotumika katika sanaa za utendaji wa mwili. 5. Ainisha faida ya sanaa za ubunifu unaohusisha sauti. 6. Taja aina tatu za sanaa bunifu zinazofanyika katika jamii yako?",
+      "instructionIds": [
+        "pg051_n0004",
+        "pg051_n0005",
+        "pg051_n0006",
+        "pg051_n0007",
+        "pg051_n0010",
+        "pg051_n0011"
+      ],
+      "instructions": [
+        "1. Bainisha sanaa zinazohusisha utendaji wa mwili.",
+        "2. Ni sanaa gani ya utendaji wa mwili uliyowahi kushiriki?",
+        "3. Ufuatishaji wa matendo ya watu au wanyama unaitwa ________.",
+        "4. Taja ala tatu za muziki zinazotumika katika sanaa za utendaji wa mwili.",
+        "5. Ainisha faida ya sanaa za ubunifu unaohusisha sauti.",
+        "6. Taja aina tatu za sanaa bunifu zinazofanyika katika jamii yako?"
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
@@ -2582,8 +3042,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg052056_n0024",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg052056_n0025",
+      "inclusiveInstruction": "1. Taja hatua za kucheza mchezo wa kukimbia na kijiti. 2. Je, ni faida gani unazoweza kupata kwa kucheza mchezo wa kukimbia na kijiti? 3. Ili uweze kushinda mchezo huu, unapaswa kufanya nini?",
+      "instructionIds": [
+        "pg052056_n0025",
+        "pg052056_n0026",
+        "pg052056_n0027"
+      ],
+      "instructions": [
+        "1. Taja hatua za kucheza mchezo wa kukimbia na kijiti.",
+        "2. Je, ni faida gani unazoweza kupata kwa kucheza mchezo wa kukimbia na kijiti?",
+        "3. Ili uweze kushinda mchezo huu, unapaswa kufanya nini?"
+      ],
       "answerDependentVisualIds": [
         "pg052056_im001",
         "pg052056_im002",
@@ -2628,21 +3098,28 @@
       "printedPages": "50",
       "sourceLabel": "Shughuli ya kwanza",
       "expectedResponses": 1,
-      "taskType": "drawing-and-practical",
+      "taskType": "drawing",
       "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
         "keyboard",
         "braille-display",
         "touch",
-        "stylus",
-        "teacher-observed-practical-performance"
+        "stylus"
       ],
       "nativeBrailleInputAvailable": true,
       "nativeControlCount": 1,
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg052056_n0030",
-      "inclusiveInstruction": "1. Chora duara la kuchezea mchezo wa kukimbia kwa kijiti. 2. Cheza na wenzako mchezo wa kukimbia na kijiti.",
+      "inclusiveInstruction": "Chora duara la kuchezea mchezo wa kukimbia kwa kijiti. Cheza na wenzako mchezo wa kukimbia na kijiti.",
+      "instructionIds": [
+        "pg052056_n0030",
+        "pg052056_n0038"
+      ],
+      "instructions": [
+        "Chora duara la kuchezea mchezo wa kukimbia kwa kijiti.",
+        "Cheza na wenzako mchezo wa kukimbia na kijiti."
+      ],
       "answerDependentVisualIds": [
         "pg052056_im001",
         "pg052056_im002",
@@ -2699,8 +3176,18 @@
       "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg057063_n0040",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg057063_n0041",
+      "inclusiveInstruction": "1. Utatumia vitu gani vya kulenga iwapo utakosa chupa? 2. Ukikosa mpira wa tenisi utatumia nini kulenga shabaha katika mchezo huu? 3. Mchezo wa kulenga shabaha una faida gani?",
+      "instructionIds": [
+        "pg057063_n0041",
+        "pg057063_n0042",
+        "pg057063_n0043"
+      ],
+      "instructions": [
+        "1. Utatumia vitu gani vya kulenga iwapo utakosa chupa?",
+        "2. Ukikosa mpira wa tenisi utatumia nini kulenga shabaha katika mchezo huu?",
+        "3. Mchezo wa kulenga shabaha una faida gani?"
+      ],
       "answerDependentVisualIds": [
         "pg057063_im001",
         "pg057063_im002",
@@ -2762,6 +3249,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg057063_n0046",
       "inclusiveInstruction": "Cheza michezo ya kulenga shabaha ukianzia karibu na kuongeza umbali kidogokidogo.",
+      "instructionIds": [
+        "pg057063_n0046"
+      ],
+      "instructions": [
+        "Cheza michezo ya kulenga shabaha ukianzia karibu na kuongeza umbali kidogokidogo."
+      ],
       "answerDependentVisualIds": [
         "pg057063_im001",
         "pg057063_im002",
@@ -2824,8 +3317,20 @@
       "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg064067_n0028",
-      "inclusiveInstruction": "Jibu maswali yafuatayo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg064067_n0029",
+      "inclusiveInstruction": "1. Je, kuna wachezaji wangapi katika kila timu? 2. Mchezaji aliye nyuma ya timu pinzani anaitwa nani? 3. Eneo gani ambalo mchezaji hapaswi kuingia wakati wote wa mchezo? 4. Mshindi anapatikanaje katika mchezo huu?",
+      "instructionIds": [
+        "pg064067_n0029",
+        "pg064067_n0030",
+        "pg064067_n0031",
+        "pg064067_n0032"
+      ],
+      "instructions": [
+        "1. Je, kuna wachezaji wangapi katika kila timu?",
+        "2. Mchezaji aliye nyuma ya timu pinzani anaitwa nani?",
+        "3. Eneo gani ambalo mchezaji hapaswi kuingia wakati wote wa mchezo?",
+        "4. Mshindi anapatikanaje katika mchezo huu?"
+      ],
       "answerDependentVisualIds": [
         "pg064067_im001",
         "pg064067_im002",
@@ -2877,6 +3382,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg064067_n0035",
       "inclusiveInstruction": "Andaa eneo na timu mbili zitakazoshiriki kucheza mchezo wa kutafuta mpira kwa miguu au kwa mikono. Cheza mchezo wa kutafuta mpira.",
+      "instructionIds": [
+        "pg064067_n0035"
+      ],
+      "instructions": [
+        "Andaa eneo na timu mbili zitakazoshiriki kucheza mchezo wa kutafuta mpira kwa miguu au kwa mikono. Cheza mchezo wa kutafuta mpira."
+      ],
       "answerDependentVisualIds": [
         "pg064067_im001",
         "pg064067_im002",
@@ -2928,6 +3439,12 @@
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg068071_n0023",
       "inclusiveInstruction": "Shirikiana na wenzako katika jozi kupiga mkwaju wa penalti. Mchezaji mmoja atakuwa mlinda mlango kuzuia mpira usiingie golini. Kila mchezaji apige mikwaju mitatu ya penalti, kisha mtabadilishana majukumu.",
+      "instructionIds": [
+        "pg068071_n0023"
+      ],
+      "instructions": [
+        "Shirikiana na wenzako katika jozi kupiga mkwaju wa penalti. Mchezaji mmoja atakuwa mlinda mlango kuzuia mpira usiingie golini. Kila mchezaji apige mikwaju mitatu ya penalti, kisha mtabadilishana majukumu."
+      ],
       "answerDependentVisualIds": [
         "pg068071_im001",
         "pg068071_im002",
@@ -2985,8 +3502,24 @@
       "nativeControlCount": 9,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
-      "inclusiveInstructionId": "pg071072_n0003",
-      "inclusiveInstruction": "Kamilisha zoezi lifuatalo kwa kuandika, kutumia kibodi au Breli.",
+      "inclusiveInstructionId": "pg071072_n0004",
+      "inclusiveInstruction": "1. Taja michezo sahili unayoifahamu. 2. Michezo inatusaidia nini katika maisha ya kila siku? 3. Mchezo wa kutafuta mpira unafanana na mchezo gani? 4. Mchezo wa kulenga shabaha unasaidia nini katika maisha ya kila siku? 5. Kuna tofauti gani kati ya kupiga mkwaju wa penalti kwa kutumia programu ya kidigiti na uchezaji halisia? 6. Oanisha maelezo yaliyopo katika kifungu A na kifungu B. Andika herufi ya jibu sahihi kwenye nafasi uliyopewa katika kifungu A.",
+      "instructionIds": [
+        "pg071072_n0004",
+        "pg071072_n0005",
+        "pg071072_n0006",
+        "pg071072_n0007",
+        "pg071072_n0008",
+        "pg071072_n0009"
+      ],
+      "instructions": [
+        "1. Taja michezo sahili unayoifahamu.",
+        "2. Michezo inatusaidia nini katika maisha ya kila siku?",
+        "3. Mchezo wa kutafuta mpira unafanana na mchezo gani?",
+        "4. Mchezo wa kulenga shabaha unasaidia nini katika maisha ya kila siku?",
+        "5. Kuna tofauti gani kati ya kupiga mkwaju wa penalti kwa kutumia programu ya kidigiti na uchezaji halisia?",
+        "6. Oanisha maelezo yaliyopo katika kifungu A na kifungu B. Andika herufi ya jibu sahihi kwenye nafasi uliyopewa katika kifungu A."
+      ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
       "visualDescriptionDecision": "no-answer-dependent-page-visual-identified",
