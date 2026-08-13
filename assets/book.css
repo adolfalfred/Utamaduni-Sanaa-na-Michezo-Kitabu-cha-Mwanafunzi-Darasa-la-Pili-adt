@@ -626,6 +626,7 @@ select:focus-visible {
   background: linear-gradient(180deg, #b8edf1 0%, var(--activity-tab-fill) 55%, #5bc7d2 100%);
 }
 
+.activity-numbered-list,
 .activity-instruction,
 .prompt-block,
 .response-field-block {
