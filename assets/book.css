@@ -518,6 +518,31 @@ select:focus-visible {
   margin-bottom: 0.7em;
 }
 
+.procedure-list,
+.activity-numbered-list {
+  list-style: decimal;
+}
+
+.activity-numbered-list {
+  margin: 0;
+  padding-left: 1.8em;
+}
+
+.activity-numbered-list li {
+  padding-left: 0.4em;
+  margin-bottom: 0.7em;
+}
+
+.procedure-sublist {
+  margin-top: 0.7em;
+  padding-left: 2.4em;
+  list-style: lower-alpha;
+}
+
+.procedure-sublist li::marker {
+  content: "(" counter(list-item, lower-alpha) ") ";
+}
+
 .procedure {
   margin-block: 2rem;
   padding: clamp(1rem, 3vw, 1.75rem);

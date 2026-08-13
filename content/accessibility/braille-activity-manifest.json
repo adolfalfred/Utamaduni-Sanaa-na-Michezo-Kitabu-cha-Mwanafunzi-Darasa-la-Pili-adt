@@ -2126,7 +2126,7 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg043045_n0019",
-      "inclusiveInstruction": "Chukua kioo na ujiangalie huku ukibadili mwonekano wa uso wako. Andaa kichekesho na uchekeshe mbele ya wenzako darasani.",
+      "inclusiveInstruction": "1. Chukua kioo na ujiangalie huku ukibadili mwonekano wa uso wako. Je, unaona nini katika kioo? 2. Andaa kichekesho. Chekesha mbele ya wenzako darasani.",
       "answerDependentVisualIds": [
         "pg043045_im001",
         "pg043045_im002"
