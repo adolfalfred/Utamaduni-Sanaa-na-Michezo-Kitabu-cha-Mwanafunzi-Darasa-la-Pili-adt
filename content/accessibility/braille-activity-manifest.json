@@ -2628,20 +2628,21 @@
       "printedPages": "50",
       "sourceLabel": "Shughuli ya kwanza",
       "expectedResponses": 1,
-      "taskType": "drawing",
+      "taskType": "drawing-and-practical",
       "expectedResponseType": "teacher-reviewed-completion",
       "inputMethods": [
         "keyboard",
         "braille-display",
         "touch",
-        "stylus"
+        "stylus",
+        "teacher-observed-practical-performance"
       ],
       "nativeBrailleInputAvailable": true,
       "nativeControlCount": 1,
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg052056_n0030",
-      "inclusiveInstruction": "Chunguza uwanja halisi au mchoro wa mguso wa duara uliotolewa na mwalimu, kisha chora, taja au eleza duara la mchezo kwa kutumia mchoro, maandishi, kibodi au Breli na ucheze mchezo wa kukimbia kwa kijiti na wenzako.",
+      "inclusiveInstruction": "1. Chora duara la kuchezea mchezo wa kukimbia kwa kijiti. 2. Cheza na wenzako mchezo wa kukimbia na kijiti.",
       "answerDependentVisualIds": [
         "pg052056_im001",
         "pg052056_im002",
