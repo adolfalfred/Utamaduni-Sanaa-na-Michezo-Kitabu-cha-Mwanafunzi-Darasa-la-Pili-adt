@@ -9,7 +9,7 @@
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
     "activities": 60,
-    "expectedDigitalResponseUnits": 166,
+    "expectedDigitalResponseUnits": 148,
     "nativeKeyboardOrBrailleAlternatives": 44,
     "tactileResourceRequired": 20,
     "sixKeyPilotCandidates": 0
@@ -480,7 +480,7 @@
       ],
       "printedPages": "11-12",
       "sourceLabel": "Maswali",
-      "expectedResponses": 10,
+      "expectedResponses": 7,
       "taskType": "mixed",
       "expectedResponseType": "mixed-native-text-braille-and-teacher-review",
       "inputMethods": [
@@ -490,7 +490,7 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
-      "nativeControlCount": 10,
+      "nativeControlCount": 7,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg016018_n0008",
@@ -1332,7 +1332,7 @@
       ],
       "printedPages": "27",
       "sourceLabel": "Maswali",
-      "expectedResponses": 4,
+      "expectedResponses": 3,
       "taskType": "open-text",
       "expectedResponseType": "native-text-or-braille",
       "inputMethods": [
@@ -1342,7 +1342,7 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
-      "nativeControlCount": 4,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg031033_n0007",
@@ -1429,7 +1429,7 @@
       ],
       "printedPages": "29",
       "sourceLabel": "Maswali",
-      "expectedResponses": 7,
+      "expectedResponses": 3,
       "taskType": "open-text",
       "expectedResponseType": "native-text-or-braille",
       "inputMethods": [
@@ -1439,7 +1439,7 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
-      "nativeControlCount": 7,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg033035_n0008",
@@ -2424,7 +2424,7 @@
       ],
       "printedPages": "45",
       "sourceLabel": "Maswali",
-      "expectedResponses": 9,
+      "expectedResponses": 3,
       "taskType": "image-open-text",
       "expectedResponseType": "native-text-or-braille",
       "inputMethods": [
@@ -2434,7 +2434,7 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
-      "nativeControlCount": 9,
+      "nativeControlCount": 3,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg049051_n0008",
@@ -2525,7 +2525,7 @@
       ],
       "printedPages": "45",
       "sourceLabel": "Zoezi la tatu",
-      "expectedResponses": 10,
+      "expectedResponses": 6,
       "taskType": "open-text",
       "expectedResponseType": "native-text-or-braille",
       "inputMethods": [
@@ -2535,7 +2535,7 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
-      "nativeControlCount": 10,
+      "nativeControlCount": 6,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg051_n0003",

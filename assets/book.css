@@ -484,11 +484,97 @@ select:focus-visible {
 
 .picture-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   align-items: stretch;
   gap: clamp(1rem, 3vw, 2rem);
   max-width: 66rem;
   margin: 1.5rem auto 2.25rem;
+}
+
+.source-picture-sequence {
+  display: grid;
+  gap: 1.5rem;
+  max-width: 58rem;
+  margin: 1.5rem auto 2.25rem;
+}
+
+.source-sequence-figure {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.source-picture-pair {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+.source-picture-pair--side-by-side {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: end;
+}
+
+.source-picture-pair img {
+  width: 100%;
+  max-height: 30rem;
+}
+
+.source-numbered-picture-set {
+  max-width: 58rem;
+}
+
+.source-numbered-picture-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+.source-numbered-picture {
+  position: relative;
+  min-width: 0;
+  border: 0.1rem solid var(--book-rule);
+}
+
+.source-numbered-picture--wide {
+  grid-column: 1 / -1;
+}
+
+.source-numbered-picture img {
+  width: 100%;
+  max-height: 30rem;
+}
+
+.source-picture-number {
+  position: absolute;
+  z-index: 1;
+  top: 0.35rem;
+  left: 0.45rem;
+  padding: 0.08rem 0.28rem;
+  background: rgb(255 255 255 / 88%);
+  border-radius: 0.25rem;
+  color: #111827;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.source-collage-figure {
+  max-width: 58rem;
+}
+
+.source-collage-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+.source-collage-grid img {
+  width: 100%;
+  height: 100%;
+  min-height: 11rem;
+  max-height: 27rem;
+  object-fit: contain;
+  border: 0.1rem solid var(--book-rule);
 }
 
 .picture-card {
@@ -832,6 +918,15 @@ select:focus-visible {
   background: #f2e4ef;
 }
 
+.response-table.source-two-column-response-table {
+  min-width: 0;
+}
+
+.response-table.source-two-column-response-table th:first-child,
+.response-table.source-two-column-response-table td:first-child {
+  width: 50%;
+}
+
 .response-table th {
   color: #fff;
   font-size: 1.15em;
@@ -1139,6 +1234,23 @@ select:focus-visible {
   .picture-grid,
   .speech-grid {
     grid-template-columns: 1fr;
+  }
+
+  .source-numbered-picture-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .source-numbered-picture--wide {
+    grid-column: auto;
+  }
+
+  .source-picture-pair--side-by-side,
+  .source-collage-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .source-collage-grid img {
+    min-height: 7rem;
   }
 
   .speech-card,
