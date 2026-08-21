@@ -1163,6 +1163,12 @@ select:focus-visible {
   pointer-events: auto;
 }
 
+/* Preserve table-of-contents layout while mirroring hidden narration highlights. */
+.book-content span[data-word-index],
+.book-content span[data-proxy-word-index] {
+  display: inline;
+}
+
 @media (max-width: 44rem) {
   .book-content {
     padding: 0.75rem 1rem 8.5rem;
