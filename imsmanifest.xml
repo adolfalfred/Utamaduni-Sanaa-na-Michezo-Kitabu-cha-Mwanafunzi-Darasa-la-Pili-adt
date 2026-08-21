@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_2" version="43"
+<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_2" version="44"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -738,7 +738,6 @@
       <file href="content/i18n/sw-TZ/audio/pg068071_n0021.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg068071_n0022.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg068071_n0023.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg071072_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg071072_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg071072_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg071072_n0005.mp3"/>
@@ -888,6 +887,8 @@
       <file href="pg064067_sec001.html"/>
       <file href="pg068071_sec001.html"/>
       <file href="pg071072_sec002.html"/>
+      <file href="tmp/pdfs/source-ngonjera-40.png"/>
+      <file href="tmp/pdfs/source-ngonjera-41.png"/>
     </resource>
   </resources>
 </manifest>

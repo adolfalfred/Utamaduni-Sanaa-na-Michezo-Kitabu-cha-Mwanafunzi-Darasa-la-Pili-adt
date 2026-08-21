@@ -242,7 +242,18 @@
 
   function restoreProxy(proxy) {
     if (!originalProxyHtml.has(proxy)) return;
-    proxy.innerHTML = originalProxyHtml.get(proxy);
+    if (proxy.querySelector("input, textarea, select, button")) {
+      proxy.querySelectorAll("[data-proxy-word-index]").forEach(function (span) {
+        span.replaceWith(document.createTextNode(span.textContent || ""));
+      });
+      proxy.querySelectorAll(".tts-inline-flow").forEach(function (flow) {
+        while (flow.firstChild) proxy.insertBefore(flow.firstChild, flow);
+        flow.remove();
+      });
+      proxy.normalize();
+    } else {
+      proxy.innerHTML = originalProxyHtml.get(proxy);
+    }
     originalProxyHtml.delete(proxy);
     proxy.classList.remove(ACTIVE_BLOCK_CLASS);
   }
