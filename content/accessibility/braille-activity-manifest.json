@@ -2161,18 +2161,16 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg039_n0004",
-      "inclusiveInstruction": "1. Taja sababu za kutia nakshi kwenye vitu. 2. Bainisha vitu unavyoweza kutumia kunakshi. 3. Taja kazi za sanaa za mikono zinazofanyika katika jamii yako. 4. Oanisha kifungu A na kifungu B ili kupata maana kamili.",
+      "inclusiveInstruction": "1. Taja sababu za kutia nakshi kwenye vitu. 2. Bainisha vitu unavyoweza kutumia kunakshi. 3. Taja kazi za sanaa za mikono zinazofanyika katika jamii yako.",
       "instructionIds": [
         "pg039_n0004",
         "pg039_n0005",
-        "pg039_n0006",
-        "pg039_n0007"
+        "pg039_n0006"
       ],
       "instructions": [
         "1. Taja sababu za kutia nakshi kwenye vitu.",
         "2. Bainisha vitu unavyoweza kutumia kunakshi.",
-        "3. Taja kazi za sanaa za mikono zinazofanyika katika jamii yako.",
-        "4. Oanisha kifungu A na kifungu B ili kupata maana kamili."
+        "3. Taja kazi za sanaa za mikono zinazofanyika katika jamii yako."
       ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],

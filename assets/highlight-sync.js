@@ -202,7 +202,16 @@
     if (!originalProxyHtml.has(proxy)) originalProxyHtml.set(proxy, proxy.innerHTML);
     if (proxy.querySelector("[data-proxy-word-index]")) return;
 
-    var walker = document.createTreeWalker(proxy, NodeFilter.SHOW_TEXT);
+    var flowRoot = proxy;
+    if (proxy.matches(".guide-callout-copy, .speech-panel")) {
+      var flow = document.createElement("span");
+      flow.className = "tts-inline-flow";
+      while (proxy.firstChild) flow.appendChild(proxy.firstChild);
+      proxy.appendChild(flow);
+      flowRoot = flow;
+    }
+
+    var walker = document.createTreeWalker(flowRoot, NodeFilter.SHOW_TEXT);
     var textNodes = [];
     var node;
     while ((node = walker.nextNode())) {
