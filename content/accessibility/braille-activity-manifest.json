@@ -224,13 +224,13 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg009011_n0013",
-      "inclusiveInstruction": "Tazama picha au video zinazoonesha nyumba za banda katika jamii za Kitanzania. Chora picha ya nyumba ya banda.",
+      "inclusiveInstruction": "Chunguza picha au video zinazoonesha nyumba za banda katika jamii za Kitanzania. Chora picha ya nyumba ya banda.",
       "instructionIds": [
         "pg009011_n0013",
         "pg009011_n0014"
       ],
       "instructions": [
-        "Tazama picha au video zinazoonesha nyumba za banda katika jamii za Kitanzania.",
+        "Chunguza picha au video zinazoonesha nyumba za banda katika jamii za Kitanzania.",
         "Chora picha ya nyumba ya banda."
       ],
       "answerDependentVisualIds": [
@@ -342,13 +342,13 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg011013_n0012",
-      "inclusiveInstruction": "Tazama picha au video zinazoonesha nyumba za tembe katika jamii za Kitanzania. Chora picha ya nyumba ya tembe.",
+      "inclusiveInstruction": "Chunguza picha au video zinazoonesha nyumba za tembe katika jamii za Kitanzania. Chora picha ya nyumba ya tembe.",
       "instructionIds": [
         "pg011013_n0012",
         "pg011013_n0013"
       ],
       "instructions": [
-        "Tazama picha au video zinazoonesha nyumba za tembe katika jamii za Kitanzania.",
+        "Chunguza picha au video zinazoonesha nyumba za tembe katika jamii za Kitanzania.",
         "Chora picha ya nyumba ya tembe."
       ],
       "answerDependentVisualIds": [
@@ -764,13 +764,13 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg018019_n0010",
-      "inclusiveInstruction": "Tazama picha au video zinazoonesha shughuli za uvuvi zinavyofanyika. Chora kifaa kinachotumika katika uvuvi.",
+      "inclusiveInstruction": "Chunguza picha au video zinazoonesha shughuli za uvuvi zinavyofanyika. Chora kifaa kinachotumika katika uvuvi.",
       "instructionIds": [
         "pg018019_n0010",
         "pg018019_n0011"
       ],
       "instructions": [
-        "Tazama picha au video zinazoonesha shughuli za uvuvi zinavyofanyika.",
+        "Chunguza picha au video zinazoonesha shughuli za uvuvi zinavyofanyika.",
         "Chora kifaa kinachotumika katika uvuvi."
       ],
       "answerDependentVisualIds": [
