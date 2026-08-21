@@ -585,6 +585,13 @@ select:focus-visible {
   border-radius: 1rem;
 }
 
+.picture-card--bird-focus img {
+  width: 100%;
+  aspect-ratio: 1.5 / 1;
+  object-fit: cover;
+  object-position: 48% center;
+}
+
 .picture-label {
   display: block;
   margin-top: 0.75rem;
@@ -925,6 +932,27 @@ select:focus-visible {
 .response-table.source-two-column-response-table th:first-child,
 .response-table.source-two-column-response-table td:first-child {
   width: 50%;
+}
+
+.matching-column-layout {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(21rem, 1fr));
+  gap: 1rem;
+  min-width: 44rem;
+}
+
+.matching-column-caption {
+  display: block;
+  width: 100%;
+}
+
+.matching-column-table {
+  min-width: 0;
+}
+
+.matching-column-table th:first-child,
+.matching-column-table td:first-child {
+  width: 100%;
 }
 
 .response-table th {

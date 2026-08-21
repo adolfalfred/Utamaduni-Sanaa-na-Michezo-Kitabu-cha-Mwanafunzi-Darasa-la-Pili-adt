@@ -401,18 +401,16 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg013014_n0004",
-      "inclusiveInstruction": "1. Bainisha majina ya nyumba za asili zilizopo katika jamii yako. 2. Taja matumizi ya vifaa vifuatavyo katika ujenzi wa nyumba za asili. 3. Eleza tofauti zilizopo kati ya nyumba ya banda, msonge na tembe. 4. Oanisha nyumba iliyoko kundi A na jamii za asili zinazotumia nyumba hizo katika kundi B.",
+      "inclusiveInstruction": "1. Bainisha majina ya nyumba za asili zilizopo katika jamii yako. 2. Taja matumizi ya vifaa vifuatavyo katika ujenzi wa nyumba za asili. 3. Eleza tofauti zilizopo kati ya nyumba ya banda, msonge na tembe.",
       "instructionIds": [
         "pg013014_n0004",
         "pg013014_n0005",
-        "pg013014_n0021",
-        "pg013014_n0010"
+        "pg013014_n0021"
       ],
       "instructions": [
         "1. Bainisha majina ya nyumba za asili zilizopo katika jamii yako.",
         "2. Taja matumizi ya vifaa vifuatavyo katika ujenzi wa nyumba za asili.",
-        "3. Eleza tofauti zilizopo kati ya nyumba ya banda, msonge na tembe.",
-        "4. Oanisha nyumba iliyoko kundi A na jamii za asili zinazotumia nyumba hizo katika kundi B."
+        "3. Eleza tofauti zilizopo kati ya nyumba ya banda, msonge na tembe."
       ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
