@@ -818,13 +818,13 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg020_n0006",
-      "inclusiveInstruction": "1. Ni bidhaa gani zinazoonekana katika picha? 2. Je, ungependa kufanya biashara gani? Kwa nini?",
+      "inclusiveInstruction": "1. Ni bidhaa gani zilizopo katika picha? 2. Je, ungependa kufanya biashara gani? Kwa nini?",
       "instructionIds": [
         "pg020_n0006",
         "pg020_n0007"
       ],
       "instructions": [
-        "1. Ni bidhaa gani zinazoonekana katika picha?",
+        "1. Ni bidhaa gani zilizopo katika picha?",
         "2. Je, ungependa kufanya biashara gani? Kwa nini?"
       ],
       "answerDependentVisualIds": [
