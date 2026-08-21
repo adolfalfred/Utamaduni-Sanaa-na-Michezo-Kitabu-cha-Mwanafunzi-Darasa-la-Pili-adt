@@ -504,6 +504,26 @@ select:focus-visible {
   margin: 1.5rem auto 2.25rem;
 }
 
+.penalty-sequence-figure {
+  max-width: 48rem;
+}
+
+.penalty-sequence-figure img {
+  width: 100%;
+  max-height: none;
+}
+
+.penalty-sequence-labels {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-top: 0.15rem;
+  padding-inline: 0.25rem;
+  color: var(--book-ink);
+  font-size: 1.05rem;
+  font-style: italic;
+}
+
 .source-picture-sequence {
   display: grid;
   gap: 1.5rem;

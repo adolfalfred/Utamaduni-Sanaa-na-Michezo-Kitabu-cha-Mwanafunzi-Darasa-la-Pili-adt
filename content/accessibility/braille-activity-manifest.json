@@ -3443,7 +3443,6 @@
         "pg068071_im001",
         "pg068071_im002",
         "pg068071_im003",
-        "pg068071_im004",
         "pg068071_im005",
         "pg068071_im006"
       ],
@@ -3451,7 +3450,6 @@
         "pg068071_im001_audio_description",
         "pg068071_im002_audio_description",
         "pg068071_im003_audio_description",
-        "pg068071_im004_audio_description",
         "pg068071_im005_audio_description",
         "pg068071_im006_audio_description"
       ],
@@ -3497,22 +3495,20 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg071072_n0004",
-      "inclusiveInstruction": "1. Taja michezo sahili unayoifahamu. 2. Michezo inatusaidia nini katika maisha ya kila siku? 3. Mchezo wa kutafuta mpira unafanana na mchezo gani? 4. Mchezo wa kulenga shabaha unasaidia nini katika maisha ya kila siku? 5. Kuna tofauti gani kati ya kupiga mkwaju wa penalti kwa kutumia programu ya kidigiti na uchezaji halisia? 6. Oanisha maelezo yaliyopo katika kifungu A na kifungu B. Andika herufi ya jibu sahihi kwenye nafasi uliyopewa katika kifungu A.",
+      "inclusiveInstruction": "1. Taja michezo sahili unayoifahamu. 2. Michezo inatusaidia nini katika maisha ya kila siku? 3. Mchezo wa kutafuta mpira unafanana na mchezo gani? 4. Mchezo wa kulenga shabaha unasaidia nini katika maisha ya kila siku? 5. Kuna tofauti gani kati ya kupiga mkwaju wa penalti kwa kutumia programu ya kidigiti na uchezaji halisia?",
       "instructionIds": [
         "pg071072_n0004",
         "pg071072_n0005",
         "pg071072_n0006",
         "pg071072_n0007",
-        "pg071072_n0008",
-        "pg071072_n0009"
+        "pg071072_n0008"
       ],
       "instructions": [
         "1. Taja michezo sahili unayoifahamu.",
         "2. Michezo inatusaidia nini katika maisha ya kila siku?",
         "3. Mchezo wa kutafuta mpira unafanana na mchezo gani?",
         "4. Mchezo wa kulenga shabaha unasaidia nini katika maisha ya kila siku?",
-        "5. Kuna tofauti gani kati ya kupiga mkwaju wa penalti kwa kutumia programu ya kidigiti na uchezaji halisia?",
-        "6. Oanisha maelezo yaliyopo katika kifungu A na kifungu B. Andika herufi ya jibu sahihi kwenye nafasi uliyopewa katika kifungu A."
+        "5. Kuna tofauti gani kati ya kupiga mkwaju wa penalti kwa kutumia programu ya kidigiti na uchezaji halisia?"
       ],
       "answerDependentVisualIds": [],
       "visualDescriptionIds": [],
