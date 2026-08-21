@@ -578,7 +578,7 @@
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg016018_n0009",
-      "inclusiveInstruction": "1. Taja mazao unayoyaona kwenye picha namba 1, 2, 3 na 4. 2. Eleza matumizi ya mazao yaliyopo katika jedwali. 3. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa zaidi kwa chakula kwenye familia yako? 4. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa kwa biashara?",
+      "inclusiveInstruction": "1. Taja mazao yaliyopo kwenye picha namba 1, 2, 3 na 4. 2. Eleza matumizi ya mazao yaliyopo katika jedwali. 3. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa zaidi kwa chakula kwenye familia yako? 4. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa kwa biashara?",
       "instructionIds": [
         "pg016018_n0009",
         "pg016018_n0010",
@@ -586,7 +586,7 @@
         "pg016018_n0018"
       ],
       "instructions": [
-        "1. Taja mazao unayoyaona kwenye picha namba 1, 2, 3 na 4.",
+        "1. Taja mazao yaliyopo kwenye picha namba 1, 2, 3 na 4.",
         "2. Eleza matumizi ya mazao yaliyopo katika jedwali.",
         "3. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa zaidi kwa chakula kwenye familia yako?",
         "4. Je, ni zao gani kati ya yaliyopo katika picha namba 1, 2, 3 na 4 hutumiwa kwa biashara?"
