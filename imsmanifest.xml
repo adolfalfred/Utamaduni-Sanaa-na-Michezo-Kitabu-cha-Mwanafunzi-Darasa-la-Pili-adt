@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_2" version="36"
+<manifest identifier="ADT_UTAMADUNI_SANAA_NA_MICHEZO_STD_2" version="37"
   xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
   xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -274,7 +274,6 @@
       <file href="content/i18n/sw-TZ/audio/pg022_n0006.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg022_n0008.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg022_n0009.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg023024_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg023024_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg023024_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg023024_n0006.mp3"/>
@@ -326,7 +325,6 @@
       <file href="content/i18n/sw-TZ/audio/pg024026_n0036.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg024026_n0038.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg024026_n0039.mp3"/>
-      <file href="content/i18n/sw-TZ/audio/pg027_n0001.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg027_n0002.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg027_n0004.mp3"/>
       <file href="content/i18n/sw-TZ/audio/pg027_n0005.mp3"/>

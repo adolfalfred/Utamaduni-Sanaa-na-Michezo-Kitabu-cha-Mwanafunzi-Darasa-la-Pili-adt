@@ -1022,6 +1022,21 @@ select:focus-visible {
   outline-offset: 0.15rem;
 }
 
+.inline-answer-prompt {
+  margin: 0;
+}
+
+.inline-answer-group {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  white-space: nowrap;
+}
+
+.inline-answer-blank {
+  width: clamp(5.5rem, 12vw, 7.5rem);
+}
+
 .dialogue {
   display: grid;
   grid-template-columns: minmax(8rem, 0.28fr) minmax(0, 1fr);

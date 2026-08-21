@@ -9,7 +9,7 @@
   "activationRule": "Usiwashe tafsiri ya vitufe sita kabla mtaalamu wa Breli wa Tanzania hajathibitisha msimbo, jedwali na kanuni za tathmini.",
   "summary": {
     "activities": 60,
-    "expectedDigitalResponseUnits": 148,
+    "expectedDigitalResponseUnits": 149,
     "nativeKeyboardOrBrailleAlternatives": 44,
     "tactileResourceRequired": 20,
     "sixKeyPilotCandidates": 0
@@ -1576,7 +1576,7 @@
       ],
       "printedPages": "27",
       "sourceLabel": "Maswali",
-      "expectedResponses": 3,
+      "expectedResponses": 4,
       "taskType": "open-text",
       "expectedResponseType": "native-text-or-braille",
       "inputMethods": [
@@ -1586,19 +1586,17 @@
         "stylus"
       ],
       "nativeBrailleInputAvailable": true,
-      "nativeControlCount": 3,
+      "nativeControlCount": 4,
       "tactileResourceRequired": false,
       "tactileResourceDecision": "no-additional-tactile-resource-required-for-recorded-response-route",
       "inclusiveInstructionId": "pg031033_n0008",
-      "inclusiveInstruction": "1. Kazi gani inafanyika katika picha namba 1 na 2? 2. Vitu vinavyohitajika katika kufanya kazi hiyo ya sanaa ni ________ na ________. 3. Ni vitu gani vingine vinaweza kutengenezwa kwa kutumia udongo?",
+      "inclusiveInstruction": "1. Kazi gani inafanyika katika picha namba 1 na 2? 3. Ni vitu gani vingine vinaweza kutengenezwa kwa kutumia udongo?",
       "instructionIds": [
         "pg031033_n0008",
-        "pg031033_n0009",
         "pg031033_n0011"
       ],
       "instructions": [
         "1. Kazi gani inafanyika katika picha namba 1 na 2?",
-        "2. Vitu vinavyohitajika katika kufanya kazi hiyo ya sanaa ni ________ na ________.",
         "3. Ni vitu gani vingine vinaweza kutengenezwa kwa kutumia udongo?"
       ],
       "answerDependentVisualIds": [
