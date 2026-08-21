@@ -51,6 +51,7 @@
     bwana: "bwana",
     dkt: "dokta",
     dokta: "dokta",
+    wakwanza: "kwanza",
   };
 
   function tokenize(value) {
@@ -380,4 +381,3 @@
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start, { once: true });
   else start();
 })();
-
