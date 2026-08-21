@@ -1,7 +1,7 @@
 {
   "bookTitle": "Utamaduni, Sanaa na Michezo - Kitabu cha Mwanafunzi, Darasa la Pili",
   "manifestPurpose": "Mapitio ya mwalimu mwenye sifa kuhusu shughuli, majibu ya kibodi au Breli, nyenzo za mguso, na taarifa za vielelezo.",
-  "generatedDate": "2026-08-13",
+  "generatedDate": "2026-08-21",
   "reviewStatus": "native-baseline-implemented-awaiting-qualified-review",
   "brailleCode": null,
   "translationTable": null,
@@ -102,13 +102,13 @@
       "tactileResourceRequired": true,
       "tactileResourceDecision": "teacher-provided-real-object-or-tactile-graphic-required-pending-specialist-review",
       "inclusiveInstructionId": "pg007009_n0019",
-      "inclusiveInstruction": "Tazama picha au video kuhusu nyumba za msonge katika jamii za Kitanzania. Chora picha ya nyumba ya msonge.",
+      "inclusiveInstruction": "Chunguza picha au video kuhusu nyumba za msonge katika jamii za Kitanzania. Chora picha ya nyumba ya msonge.",
       "instructionIds": [
         "pg007009_n0019",
         "pg007009_n0020"
       ],
       "instructions": [
-        "Tazama picha au video kuhusu nyumba za msonge katika jamii za Kitanzania.",
+        "Chunguza picha au video kuhusu nyumba za msonge katika jamii za Kitanzania.",
         "Chora picha ya nyumba ya msonge."
       ],
       "answerDependentVisualIds": [
