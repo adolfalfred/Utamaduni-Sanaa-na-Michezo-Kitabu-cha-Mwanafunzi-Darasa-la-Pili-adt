@@ -2625,14 +2625,14 @@
       ],
       "answerDependentVisualIds": [
         "pg046047_im001",
-        "pg046047_im002",
         "pg046047_im003",
+        "pg046047_im002",
         "pg046047_im004"
       ],
       "visualDescriptionIds": [
         "pg046047_im001_audio_description",
-        "pg046047_im002_audio_description",
         "pg046047_im003_audio_description",
+        "pg046047_im002_audio_description",
         "pg046047_im004_audio_description"
       ],
       "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",
@@ -2682,14 +2682,14 @@
       ],
       "answerDependentVisualIds": [
         "pg046047_im001",
-        "pg046047_im002",
         "pg046047_im003",
+        "pg046047_im002",
         "pg046047_im004"
       ],
       "visualDescriptionIds": [
         "pg046047_im001_audio_description",
-        "pg046047_im002_audio_description",
         "pg046047_im003_audio_description",
+        "pg046047_im002_audio_description",
         "pg046047_im004_audio_description"
       ],
       "visualDescriptionDecision": "all-informative-page-visuals-have-task-useful-descriptions",

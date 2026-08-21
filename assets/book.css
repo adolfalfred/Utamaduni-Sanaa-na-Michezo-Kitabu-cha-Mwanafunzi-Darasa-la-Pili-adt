@@ -528,14 +528,10 @@ select:focus-visible {
 }
 
 .source-picture-pair img {
-  width: 100%;
-  max-height: 30rem;
-}
-
-.source-picture-pair:not(.source-picture-pair--side-by-side) img {
   width: auto;
   max-width: 100%;
   height: auto;
+  max-height: 30rem;
   justify-self: center;
 }
 
