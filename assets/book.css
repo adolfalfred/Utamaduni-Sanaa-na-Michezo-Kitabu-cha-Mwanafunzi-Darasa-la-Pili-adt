@@ -370,7 +370,6 @@ select:focus-visible {
 
 .title-page-content {
   background:
-    linear-gradient(to left, rgba(0, 174, 239, 0.98) 0 0.65rem, rgba(0, 174, 239, 0.3) 0.65rem 1.55rem, transparent 3.2rem),
     linear-gradient(to top, rgba(0, 174, 239, 0.24) 0 0.65rem, rgba(0, 174, 239, 0.1) 1.8rem, transparent 4rem),
     #fff;
 }
