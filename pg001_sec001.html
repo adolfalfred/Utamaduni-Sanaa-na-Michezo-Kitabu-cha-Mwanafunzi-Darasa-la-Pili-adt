@@ -27,41 +27,17 @@
           <p class="title-page__class" data-id="pg001_n0003">Darasa la Pili</p>
         </header>
 
-        <section class="title-page__certificate" aria-labelledby="certificate-heading">
-          <div class="title-page__certificate-heading">
-            <p data-id="pg001_n0004">Jamhuri ya Muungano wa Tanzania</p>
-            <p data-id="pg001_n0005">Wizara ya Elimu, Sayansi na Teknolojia</p>
-          </div>
-          <h2 id="certificate-heading" class="title-page__certificate-title" data-id="pg001_n0006">Cheti cha Ithibati</h2>
-          <p class="title-page__certificate-number" data-id="pg001_n0007">Na. 1608</p>
-
-          <dl class="title-page__certificate-details">
-            <div data-id="pg001_n0008">
-              <dt>Jina la Chapisho:</dt>
-              <dd>Utamaduni, Sanaa na Michezo Kitabu cha Mwanafunzi Darasa la Pili</dd>
-            </div>
-            <div data-id="pg001_n0009">
-              <dt>Mchapishaji:</dt>
-              <dd>Taasisi ya Elimu Tanzania</dd>
-            </div>
-            <div data-id="pg001_n0010">
-              <dt>Mwandishi:</dt>
-              <dd>Taasisi ya Elimu Tanzania</dd>
-            </div>
-            <div data-id="pg001_n0011">
-              <dt>ISBN:</dt>
-              <dd>978-9912-753-71-6</dd>
-            </div>
-          </dl>
-
-          <p class="title-page__approval" data-id="pg001_n0012">Kitabu hiki kimeidhinishwa na Wizara ya Elimu, Sayansi na Teknolojia tarehe 11 Septemba 2024 kuwa Kitabu cha Kiada kwa ajili ya Mwanafunzi wa Darasa la Pili katika ngazi ya Elimu ya Msingi nchini Tanzania kulingana na Muhtasari wa Mwaka 2023.</p>
-
-          <div class="title-page__signature">
-            <span class="title-page__signature-mark" aria-hidden="true"></span>
-            <p data-id="pg001_n0013">Dkt. Lyabwene M. Mtahabwa</p>
-            <p data-id="pg001_n0014">Kamishna wa Elimu</p>
-          </div>
-        </section>
+        <figure class="title-page__certificate-figure">
+          <img
+            class="title-page__certificate-image"
+            src="./images/pg001-certificate.jpg"
+            alt="Cheti cha Ithibati namba 1608 cha kitabu Utamaduni, Sanaa na Michezo, Darasa la Pili."
+            data-id="pg001_im001"
+            data-highlight-for="pg001_n0004"
+          >
+          <figcaption class="sr-only" data-id="pg001_n0004">Cheti cha Ithibati</figcaption>
+          <span class="sr-only" aria-hidden="true" data-audio-description-for="pg001_im001" data-id="pg001_im001_audio_description">Cheti cha Ithibati namba 1608 cha Jamhuri ya Muungano wa Tanzania, Wizara ya Elimu, Sayansi na Teknolojia. Jina la Chapisho: Utamaduni, Sanaa na Michezo, Kitabu cha Mwanafunzi, Darasa la Pili. Mchapishaji na mwandishi ni Taasisi ya Elimu Tanzania. ISBN 978-9912-753-71-6. Kitabu hiki kimeidhinishwa tarehe 11 Septemba 2024 kuwa Kitabu cha Kiada kwa ajili ya Mwanafunzi wa Darasa la Pili katika ngazi ya Elimu ya Msingi nchini Tanzania kulingana na Muhtasari wa Mwaka 2023. Cheti kimesainiwa na Dkt. Lyabwene M. Mtahabwa, Kamishna wa Elimu.</span>
+        </figure>
 
         <p class="title-page__publisher" data-id="pg001_n0015">Taasisi ya Elimu Tanzania</p>
       </section>
@@ -71,6 +47,7 @@
   <div class="relative z-50" id="nav-container"></div>
   <script src="./assets/offline-preloader.js"></script>
   <script src="./assets/scorm.js"></script>
+  <script src="./assets/highlight-sync.js?v=52"></script>
   <script src="./assets/base.bundle.local.js"></script>
 </body>
 </html>

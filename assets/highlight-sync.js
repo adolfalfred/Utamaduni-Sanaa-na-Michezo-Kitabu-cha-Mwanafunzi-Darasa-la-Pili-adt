@@ -2,7 +2,7 @@
   "use strict";
 
   var CONTENT_SELECTOR = "#content";
-  var NARRATION_SELECTOR = ".sr-only[data-id]:not([data-audio-description-for])";
+  var NARRATION_SELECTOR = ".sr-only[data-id]";
   var PROXY_ATTRIBUTE = "data-highlight-for";
   var ACTIVE_WORD_CLASS = "bg-yellow-300";
   var ACTIVE_BLOCK_CLASS = "tts-active-block";
@@ -178,6 +178,18 @@
       return explicit;
     }
 
+    var describedId = hidden.getAttribute("data-audio-description-for");
+    if (describedId) {
+      var escapedDescribedId = window.CSS && CSS.escape
+        ? CSS.escape(describedId)
+        : describedId.replace(/(["\\])/g, "\\$1");
+      var describedElement = document.querySelector('[data-id="' + escapedDescribedId + '"]');
+      if (describedElement) {
+        addProxyId(describedElement, id);
+        return describedElement;
+      }
+    }
+
     var inlineNodes = previousInlineNodes(hidden);
     var proxy = makeInlineProxy(hidden, inlineNodes) || nearestVisibleSibling(hidden);
     if (!proxy) return null;
@@ -241,7 +253,10 @@
   }
 
   function restoreProxy(proxy) {
-    if (!originalProxyHtml.has(proxy)) return;
+    if (!originalProxyHtml.has(proxy)) {
+      proxy.classList.remove(ACTIVE_BLOCK_CLASS);
+      return;
+    }
     if (proxy.querySelector("input, textarea, select, button")) {
       proxy.querySelectorAll("[data-proxy-word-index]").forEach(function (span) {
         span.replaceWith(document.createTextNode(span.textContent || ""));
@@ -335,7 +350,10 @@
 
   function syncProxy(hidden, proxy) {
     proxy.classList.remove(ACTIVE_BLOCK_CLASS);
-    if (hidden.classList.contains(ACTIVE_BLOCK_CLASS)) {
+    if (
+      hidden.classList.contains(ACTIVE_BLOCK_CLASS)
+      || (hidden.hasAttribute("data-tts-original-html") && !visibleText(proxy))
+    ) {
       proxy.classList.add(ACTIVE_BLOCK_CLASS);
       return;
     }
