@@ -359,6 +359,199 @@ select:focus-visible {
   object-fit: contain;
 }
 
+.source-art-stage--wide .source-art-figure {
+  width: min(100%, 70rem);
+}
+
+.source-art-stage--wide .source-art-image {
+  width: 100%;
+  max-height: none;
+}
+
+.title-page-content {
+  background:
+    linear-gradient(90deg, rgba(14, 165, 233, 0.96) 0 0.45rem, transparent 0.45rem) left top / 100% 100% no-repeat,
+    linear-gradient(0deg, rgba(14, 165, 233, 0.16), transparent 4.5rem) left bottom / 100% 5rem no-repeat,
+    #fff;
+}
+
+.title-page {
+  width: min(100%, 70rem);
+  margin-inline: auto;
+  text-align: center;
+}
+
+.title-page__masthead {
+  margin-bottom: clamp(2rem, 4vw, 3.5rem);
+}
+
+.title-page__book-title,
+.title-page__book-title-continuation {
+  margin: 0;
+  color: #05a9e6;
+  font-size: clamp(2.4rem, 4.9vw, 4.8rem);
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: 0.02em;
+}
+
+.title-page__book-title-continuation {
+  margin-top: 0.05em;
+}
+
+.title-page__subtitle,
+.title-page__class,
+.title-page__publisher {
+  margin-inline: auto;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+.title-page__subtitle {
+  margin-top: clamp(1.25rem, 2.5vw, 2rem);
+  color: #8f174f;
+  font-size: clamp(1.8rem, 3.6vw, 3.25rem);
+}
+
+.title-page__class {
+  margin-top: clamp(1rem, 2vw, 1.65rem);
+  color: #05a9e6;
+  font-size: clamp(1.8rem, 3.2vw, 3rem);
+}
+
+.title-page__certificate {
+  position: relative;
+  width: min(100%, 48rem);
+  margin-inline: auto;
+  padding: clamp(1.4rem, 4vw, 3.5rem);
+  overflow: hidden;
+  border: 0.55rem double #65a96f;
+  color: #0d5134;
+  text-align: left;
+  background:
+    repeating-linear-gradient(28deg, rgba(34, 139, 87, 0.08) 0 0.16rem, transparent 0.16rem 0.7rem),
+    repeating-linear-gradient(152deg, rgba(34, 139, 87, 0.07) 0 0.14rem, transparent 0.14rem 0.75rem),
+    radial-gradient(circle at center, rgba(244, 250, 203, 0.98), rgba(195, 230, 181, 0.95));
+  box-shadow:
+    inset 0 0 0 0.35rem rgba(255, 255, 255, 0.62),
+    0 0.9rem 2rem rgba(15, 23, 42, 0.16);
+}
+
+.title-page__certificate::before,
+.title-page__certificate::after {
+  position: absolute;
+  inset: 1.1rem;
+  border: 0.16rem solid rgba(19, 112, 58, 0.36);
+  pointer-events: none;
+  content: "";
+}
+
+.title-page__certificate::after {
+  inset: 1.75rem;
+  border-style: dashed;
+  opacity: 0.58;
+}
+
+.title-page__certificate > * {
+  position: relative;
+  z-index: 1;
+}
+
+.title-page__certificate-heading {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.title-page__certificate-heading p {
+  margin: 0.2rem 0;
+  font-size: clamp(1.05rem, 1.8vw, 1.45rem);
+}
+
+.title-page__certificate-title {
+  margin: clamp(1.5rem, 4vw, 3rem) auto 0.35rem;
+  color: #d34e58;
+  font-family: cursive;
+  font-size: clamp(2.2rem, 4.4vw, 4rem);
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1.05;
+  text-align: center;
+  text-shadow:
+    -0.06rem -0.06rem 0 #fff,
+    0.06rem 0.06rem 0 #fff;
+}
+
+.title-page__certificate-number {
+  margin: 0 0 1.25rem;
+  text-align: right;
+  font-weight: 700;
+}
+
+.title-page__certificate-details {
+  margin: 0;
+}
+
+.title-page__certificate-details > div {
+  display: grid;
+  grid-template-columns: minmax(8.5rem, 0.85fr) minmax(0, 1.7fr);
+  gap: 0.75rem;
+  align-items: end;
+  margin: 0.75rem 0;
+  padding-bottom: 0.35rem;
+  border-bottom: 0.11rem dotted rgba(13, 81, 52, 0.72);
+}
+
+.title-page__certificate-details dt,
+.title-page__certificate-details dd {
+  margin: 0;
+  font-size: clamp(1rem, 1.6vw, 1.3rem);
+  line-height: 1.35;
+}
+
+.title-page__certificate-details dt {
+  font-weight: 700;
+}
+
+.title-page__approval {
+  margin: clamp(1.75rem, 4vw, 3rem) 0 0;
+  font-size: clamp(1.02rem, 1.7vw, 1.35rem);
+  line-height: 1.75;
+  text-align: justify;
+}
+
+.title-page__signature {
+  width: min(100%, 22rem);
+  margin-top: clamp(1.5rem, 4vw, 3rem);
+  text-align: left;
+}
+
+.title-page__signature-mark {
+  display: block;
+  width: 10rem;
+  height: 2.5rem;
+  margin-bottom: 0.35rem;
+  border-bottom: 0.16rem solid #327564;
+  border-radius: 50%;
+  transform: skewX(-24deg) rotate(-4deg);
+}
+
+.title-page__signature p {
+  margin: 0.15rem 0;
+  font-size: clamp(1rem, 1.7vw, 1.3rem);
+}
+
+.title-page__signature p:first-of-type {
+  font-weight: 800;
+}
+
+.title-page__publisher {
+  margin-top: clamp(2rem, 5vw, 4rem);
+  color: #20232a;
+  font-size: clamp(1.6rem, 3vw, 2.6rem);
+}
+
 .adt-h2,
 .adt-h3 {
   max-width: 70ch;
@@ -1388,6 +1581,32 @@ select:focus-visible {
   .source-art-image {
     max-height: none;
     width: 100%;
+  }
+
+  .title-page-content {
+    padding-inline: 1rem;
+  }
+
+  .title-page__certificate {
+    padding: 2.2rem 1.4rem;
+    border-width: 0.38rem;
+  }
+
+  .title-page__certificate::before {
+    inset: 0.65rem;
+  }
+
+  .title-page__certificate::after {
+    inset: 1.05rem;
+  }
+
+  .title-page__certificate-details > div {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+
+  .title-page__approval {
+    text-align: left;
   }
 
   .guide-callout {
