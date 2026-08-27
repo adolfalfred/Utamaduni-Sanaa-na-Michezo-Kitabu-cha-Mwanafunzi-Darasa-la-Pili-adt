@@ -318,13 +318,6 @@ select:focus-visible {
   text-align: right;
 }
 
-.source-page-number {
-  margin: 3rem 0 0;
-  color: var(--book-muted);
-  font-size: 1.15rem;
-  text-align: center;
-}
-
 .source-art-page {
   background: #dbe3ea;
 }
@@ -461,7 +454,7 @@ select:focus-visible {
   font-size: clamp(1.35rem, 1.1vw + 1rem, 1.65rem);
 }
 
-.book-content > section > p:not(.source-page-number),
+.book-content > section > p,
 .book-content > section > .lesson-list,
 .book-content > section > .procedure,
 .book-content > section > .dialogue,
@@ -1563,6 +1556,7 @@ select:focus-visible {
     margin-bottom: 0.8rem;
   }
 }
+
 
 @media (prefers-reduced-motion: reduce) {
   *,

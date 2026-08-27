@@ -1,0 +1,104 @@
+/* Reader chrome compatibility only. Do not place book-content rules here. */
+@media (max-width: 767.98px) {
+  #nav-container > [role="group"][class~="bottom-0"] {
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-flow: row nowrap !important;
+    grid-template-areas: none !important;
+    grid-template-columns: none !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    inset-inline: 0 !important;
+    width: 100vw !important;
+    max-width: none !important;
+    margin-inline: 0 !important;
+    min-height: 3.25rem !important;
+    gap: 0.25rem !important;
+    padding: 0.25rem calc(0.25rem + env(safe-area-inset-right))
+      calc(0.25rem + env(safe-area-inset-bottom))
+      calc(0.25rem + env(safe-area-inset-left)) !important;
+    overflow: hidden !important;
+  }
+
+  #nav-container > [role="group"][class~="bottom-0"] > :nth-child(1),
+  #nav-container > [role="group"][class~="bottom-0"] > :nth-child(2),
+  #nav-container > [role="group"][class~="bottom-0"] > :nth-child(3) {
+    grid-area: auto !important;
+    grid-column: auto !important;
+    grid-row: auto !important;
+    min-width: 0 !important;
+    margin: 0 !important;
+  }
+
+  #nav-container > [role="group"][class~="bottom-0"] > :nth-child(1),
+  #nav-container > [role="group"][class~="bottom-0"] > :nth-child(3) {
+    display: inline-flex !important;
+    flex: 0 0 2.75rem !important;
+    width: 2.75rem !important;
+    max-width: 2.75rem !important;
+    height: 2.75rem !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  #nav-container > [role="group"][class~="bottom-0"] > :nth-child(2) {
+    display: flex !important;
+    flex: 1 1 auto !important;
+    width: auto !important;
+    max-width: none !important;
+    justify-content: center !important;
+    padding: 0 !important;
+  }
+
+  #nav-container > [role="group"][class~="bottom-0"] > button svg {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+
+  /* Keep the floating read-aloud controls in one usable row in every locale.
+     The data-slot selectors are stable even when accessible labels change. */
+  #interface-container
+    [role="group"]:has(> button[data-slot="dropdown-menu-trigger"]):has(> button[data-slot="popover-trigger"]) {
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-flow: row nowrap !important;
+    grid-template-columns: none !important;
+    width: calc(100vw - 0.5rem) !important;
+    max-width: calc(100vw - 0.5rem) !important;
+    height: auto !important;
+    gap: 0.25rem !important;
+    padding: 0.375rem !important;
+  }
+
+  #interface-container
+    [role="group"]:has(> button[data-slot="dropdown-menu-trigger"]):has(> button[data-slot="popover-trigger"])
+    > button {
+    grid-column: auto !important;
+    grid-row: auto !important;
+    margin: 0 !important;
+  }
+
+  #interface-container
+    [role="group"]:has(> button[data-slot="dropdown-menu-trigger"]):has(> button[data-slot="popover-trigger"])
+    > button:nth-child(-n + 4),
+  #interface-container
+    [role="group"]:has(> button[data-slot="dropdown-menu-trigger"]):has(> button[data-slot="popover-trigger"])
+    > button[data-slot="popover-trigger"] {
+    flex: 0 0 clamp(2.25rem, 11vw, 2.75rem) !important;
+    width: clamp(2.25rem, 11vw, 2.75rem) !important;
+    min-width: 0 !important;
+    height: clamp(2.25rem, 11vw, 2.75rem) !important;
+  }
+
+  #interface-container
+    [role="group"]:has(> button[data-slot="dropdown-menu-trigger"]):has(> button[data-slot="popover-trigger"])
+    > button[data-slot="dropdown-menu-trigger"] {
+    flex: 1 1 5rem !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 7.5rem !important;
+    height: clamp(2.25rem, 11vw, 2.5rem) !important;
+    padding-inline: 0.35rem !important;
+  }
+}

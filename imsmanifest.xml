@@ -15,8 +15,7 @@
   <resources>
     <resource identifier="RESOURCE_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
       <file href="index.html" />
-      <file href="assets/base.bundle.local.js" />
-      <file href="assets/book-interactions.js" />
+<file href="assets/book-interactions.js" />
       <file href="assets/book.css" />
       <file href="assets/config.json" />
       <file href="assets/favicon_io/about.txt" />
@@ -43,9 +42,7 @@
       <file href="assets/libs/fontawesome/webfonts/fa-regular-400.woff2" />
       <file href="assets/libs/fontawesome/webfonts/fa-solid-900.woff2" />
       <file href="assets/libs/fontawesome/webfonts/fa-v4compatibility.woff2" />
-      <file href="assets/offline-preloader.js" />
-      <file href="assets/scorm.js" />
-      <file href="assets/sounds/drop.mp3" />
+<file href="assets/sounds/drop.mp3" />
       <file href="assets/sounds/error.mp3" />
       <file href="assets/sounds/reset.mp3" />
       <file href="assets/sounds/success.mp3" />
@@ -914,6 +911,16 @@
       <file href="pg064067_sec001.html" />
       <file href="pg068071_sec001.html" />
       <file href="pg071072_sec002.html" />
+      <file href="assets/base.bundle.local.js" />
+      <file href="assets/reader-runtime.css" />
+      <file href="assets/reader-chrome-overrides.css" />
+      <file href="assets/mobile-sheet-drag.css" />
+      <file href="assets/mobile-sheet-drag.js" />
+      <file href="assets/sign-language-video.css" />
+      <file href="assets/sign-language-video.js" />
+      <file href="assets/media-playback-independence.js" />
+      <file href="assets/offline-preloader.js" />
+      <file href="assets/scorm.js" />
     </resource>
   </resources>
 </manifest>
